@@ -1,0 +1,48 @@
+#!/bin/bash
+############### Zona de Parámetros de solicitud de recursos a SLURM #####################
+#SBATCH --job-name=metabat              #Nombre del job
+#SBATCH -p medium                       #Cola a usar, Default=short (Ver colas y límites en /hpcfs/shared/README/partitions.txt)
+#SBATCH -N 1                            #Nodos requeridos, Default=1
+#SBATCH -n 2                            #Tasks paralelos, recomendado para MPI, Default=1
+#SBATCH --cpus-per-task=2               #Cores requeridos por task, recomendado para multi-thread, Default=1
+#SBATCH --mem=300000                    #Memoria en Mb por CPU, Default=2048
+#SBATCH --time=360:00:00                #Tiempo máximo de corrida, Default=2 horas
+#SBATCH --mail-user=mf.penav1@uniandes.edu.co
+#SBATCH --mail-type=ALL
+#SBATCH -o metabat_job.o%j              #Nombre de archivo de salida
+
+
+############################## Zona Carga de Módulos ####################################
+
+module load metabat2
+
+############################ Zona de Ejecución de código ################################
+
+jgi_summarize_bam_contig_depths --outputDepth depth_var_C.txt /hpcfs/home/ciencias_biologicas/mf.penav1/trabajo_grado/megahit/C/C_treatm_out/mapeo2/*sorted.bam
+
+metabat -i /hpcfs/home/ciencias_biologicas/mf.penav1/trabajo_grado/vamb/filtrar/final_contigs_C_result.fa -a depth_var_C.txt --verysensitive -o metabat_C -v > log.txt
+
+
+jgi_summarize_bam_contig_depths --outputDepth depth_var_CW.txt /hpcfs/home/ciencias_biologicas/mf.penav1/trabajo_grado/megahit/CW/CW_treatm_out/mapeo2/*sorted.bam
+
+metabat -i /hpcfs/home/ciencias_biologicas/mf.penav1/trabajo_grado/vamb/filtrar/final_contigs_CW_result.fa -a depth_var_CW.txt --verysensitive -o metabat_CW -v > log.txt
+
+
+jgi_summarize_bam_contig_depths --outputDepth depth_var_L.txt /hpcfs/home/ciencias_biologicas/mf.penav1/trabajo_grado/megahit/L/L_treatm_out/mapeo2/*sorted.bam
+
+metabat -i /hpcfs/home/ciencias_biologicas/mf.penav1/trabajo_grado/vamb/filtrar/final_contigs_L_result.fa -a depth_var_L.txt --verysensitive -o metabat_L -v > log.txt
+
+
+jgi_summarize_bam_contig_depths --outputDepth depth_var_LW.txt /hpcfs/home/ciencias_biologicas/mf.penav1/trabajo_grado/megahit/LW/LW_treatm_out/mapeo2/*sorted.bam
+
+metabat -i /hpcfs/home/ciencias_biologicas/mf.penav1/trabajo_grado/vamb/filtrar/final_contigs_LW_result.fa -a depth_var_LW.txt --verysensitive -o metabat_LW -v > log.txt
+
+
+jgi_summarize_bam_contig_depths --outputDepth depth_var_P.txt /hpcfs/home/ciencias_biologicas/mf.penav1/trabajo_grado/megahit/P/P_treatm_out/mapeo2/*sorted.bam
+
+metabat -i /hpcfs/home/ciencias_biologicas/mf.penav1/trabajo_grado/vamb/filtrar/final_contigs_P_result.fa -a depth_var_P.txt --verysensitive -o metabat_P -v > log.txt
+
+
+jgi_summarize_bam_contig_depths --outputDepth depth_var_PW.txt /hpcfs/home/ciencias_biologicas/mf.penav1/trabajo_grado/megahit/PW/PW_treatm_out/mapeo2/*sorted.bam
+
+metabat -i /hpcfs/home/ciencias_biologicas/mf.penav1/trabajo_grado/vamb/filtrar/final_contigs_PW_result.fa -a depth_var_PW.txt --verysensitive -o metabat_PW -v > log.txt

@@ -1,0 +1,1333 @@
+mag	bin_code	tax_code	treatment	sample	relative_abundance
+C_1	C_27077.fna	UBA5704 (a)	C	C1	0.023611017
+C_2	C_maxbin_C.028.fasta	HGW-15	C	C1	0.017551314
+C_3	C_metabat_C.121.fa	ZC4RG35 (a)	C	C1	0.030735890
+C_4	C_metabat_C.124.fa	Micropepsaceae	C	C1	0.013160911
+C_5	C_metabat_C.125.fa	SZUA-232	C	C1	0.051670286
+C_6	C_metabat_C.19.fa	Nitriliruptoraceae	C	C1	0.022735829
+C_7	C_metabat_C.25.fa	E44-bin32 (a)	C	C1	0.030399313
+C_8	C_metabat_C.37.fa	SZUA-229	C	C1	0.018269170
+C_9	C_metabat_C.46.fa	JABDQX01	C	C1	0.017071648
+C_10	C_metabat_C.60.fa	UBA5704 (b)	C	C1	0.023407887
+C_11	C_metabat_C.7.fa	Pseudonocardiaceae	C	C1	0.037991143
+C_12	C_metabat_C.74.fa	Balneolaceae (a)	C	C1	0.026676586
+C_13	C_metabat_C.81.fa	Promineofilaceae (a)	C	C1	0.015251370
+C_14	C_metabat_C.83.fa	UBA5704 (c)	C	C1	0.021083840
+C_15	C_metabat_C.95.fa	J153	C	C1	0.021198004
+C_16	C_metabat_C.98.fa	ZC4RG35 (b)	C	C1	0.033604027
+CW_1	CW_23909.fna	Woeseiaceae (a)	C	C1	0.007683206
+CW_2	CW_maxbin_CW.098	Nitrososphaeraceae (a)	C	C1	0.010150342
+CW_3	CW_maxbin_CW.218	Nitrososphaeraceae (b)	C	C1	0.006301180
+CW_4	CW_metabat_CW.108.fa	RKRQ02 (a)	C	C1	0.056408222
+CW_5	CW_metabat_CW.111.fa	UBA6522 (a)	C	C1	0.018362955
+CW_6	CW_metabat_CW.121.fa	Methyloligellaceae	C	C1	0.007432087
+CW_7	CW_metabat_CW.123.fa	E44-bin32 (b)	C	C1	0.007072502
+CW_8	CW_metabat_CW.131.fa	UBA6522 (b)	C	C1	0.021381632
+CW_9	CW_metabat_CW.20.fa	SG8-38	C	C1	0.021105095
+CW_10	CW_metabat_CW.37.fa	UBA6522 (c)	C	C1	0.011726075
+CW_11	CW_metabat_CW.57.fa	UBA6522 (d)	C	C1	0.013425176
+CW_12	CW_metabat_CW.86.fa	UBA4486	C	C1	0.002779829
+CW_13	CW_metabat_CW.95.fa	JACQBZ02	C	C1	0.001965996
+CW_14	CW_metabat_CW.96.fa	GWC2-71-9	C	C1	0.011033638
+L_1	L_25727.fna	Sporolactobacillaceae (a)	C	C1	0.000000000
+L_2	L_maxbin_L.002	Paenibacillaceae	C	C1	0.000000000
+L_3	L_maxbin_L.006	Domibacillaceae	C	C1	0.000000000
+L_4	L_maxbin_L.259	Sporolactobacillaceae (b)	C	C1	0.000000000
+L_5	L_metabat_L.102.fa	Jiangellales	C	C1	0.012426620
+L_6	L_metabat_L.108.fa	SM23-39	C	C1	0.000000000
+L_7	L_metabat_L.119.fa	Flavobacteriaceae	C	C1	0.003843465
+L_8	L_metabat_L.121.fa	Streptomycetaceae	C	C1	0.002685167
+L_9	L_metabat_L.18.fa	Rhodobacteraceae	C	C1	0.018422119
+L_10	L_metabat_L.41.fa	RKRQ01	C	C1	0.044940716
+L_11	L_metabat_L.45.fa	Cellulomonadaceae	C	C1	0.000000000
+L_12	L_metabat_L.59.fa	CECT-8803	C	C1	0.016323771
+L_13	L_metabat_L.70.fa	UBA8139	C	C1	0.011140352
+L_14	L_metabat_L.95.fa	Planctomycetaceae	C	C1	0.000000000
+LW_1	LW_10211.fna	GWA1-39-11	C	C1	0.000000000
+LW_2	LW_10984.fna	DSSB01	C	C1	0.000000000
+LW_3	LW_maxbin_LW.013	Latescibacterales	C	C1	0.000000000
+LW_4	LW_maxbin_LW.016	Bacillaceae_C	C	C1	0.000000000
+LW_5	LW_maxbin_LW.091	Cyclobacteriaceae	C	C1	0.003000489
+LW_6	LW_maxbin_LW.269	Lacipirellulaceae	C	C1	0.004711861
+LW_7	LW_maxbin_LW.310	SZUA-584	C	C1	0.000000000
+LW_8	LW_metabat_LW.102.fa	JAFGWO01	C	C1	0.006818755
+LW_9	LW_metabat_LW.105.fa	QNYZ01	C	C1	0.006101118
+LW_10	LW_metabat_LW.111.fa	UBA6522 (e)	C	C1	0.012149207
+LW_11	LW_metabat_LW.129.fa	UBA11606	C	C1	0.019220833
+LW_12	LW_metabat_LW.136.fa	Alkalibacteraceae	C	C1	0.000000000
+LW_13	LW_metabat_LW.149.fa	Balneolaceae (b)	C	C1	0.000000000
+LW_14	LW_metabat_LW.17.fa	Promineofilaceae (b)	C	C1	0.010519569
+LW_15	LW_metabat_LW.43.fa	Desulfobacterales	C	C1	0.003432605
+LW_16	LW_metabat_LW.90.fa	UMGS416	C	C1	0.000000000
+LW_17	LW_metabat_LW.95.fa	Anaerolineaceae	C	C1	0.002048606
+P_1	P_18661.fna	Halobacteriales (a)	C	C1	0.040007100
+P_2	P_25546.fna	Hyphomicrobiaceae	C	C1	0.011136189
+P_3	P_25897.fna	JAENVV01	C	C1	0.024831985
+P_4	P_maxbin_P.068	SG8-13 (a)	C	C1	0.016477379
+P_5	P_maxbin_P.091	HXMU1428-3	C	C1	0.001689898
+P_6	P_metabat_P.121.fa	RKSH01	C	C1	0.009080570
+P_7	P_metabat_P.131.fa	SG8-41	C	C1	0.021558904
+P_8	P_metabat_P.37.fa	RKRQ02 (b)	C	C1	0.008660506
+P_9	P_metabat_P.50.fa	Woeseiaceae (b)	C	C1	0.019580637
+P_10	P_metabat_P.57.fa	Halobacteriales (b)	C	C1	0.032422939
+P_11	P_metabat_P.77.fa	SG8-13 (b)	C	C1	0.022215843
+PW_1	PW_19550.fna	70-9 (a)	C	C1	0.004760726
+PW_2	PW_metabat_PW.84.fa	70-9 (b)	C	C1	0.008545904
+C_1	C_27077.fna	UBA5704 (a)	C	C2	0.021728610
+C_2	C_maxbin_C.028.fasta	HGW-15	C	C2	0.013071357
+C_3	C_metabat_C.121.fa	ZC4RG35 (a)	C	C2	0.026828391
+C_4	C_metabat_C.124.fa	Micropepsaceae	C	C2	0.015696779
+C_5	C_metabat_C.125.fa	SZUA-232	C	C2	0.053575816
+C_6	C_metabat_C.19.fa	Nitriliruptoraceae	C	C2	0.020129622
+C_7	C_metabat_C.25.fa	E44-bin32 (a)	C	C2	0.018529708
+C_8	C_metabat_C.37.fa	SZUA-229	C	C2	0.017179637
+C_9	C_metabat_C.46.fa	JABDQX01	C	C2	0.018955365
+C_10	C_metabat_C.60.fa	UBA5704 (b)	C	C2	0.025539392
+C_11	C_metabat_C.7.fa	Pseudonocardiaceae	C	C2	0.054738043
+C_12	C_metabat_C.74.fa	Balneolaceae (a)	C	C2	0.017355914
+C_13	C_metabat_C.81.fa	Promineofilaceae (a)	C	C2	0.018607437
+C_14	C_metabat_C.83.fa	UBA5704 (c)	C	C2	0.022417063
+C_15	C_metabat_C.95.fa	J153	C	C2	0.022408735
+C_16	C_metabat_C.98.fa	ZC4RG35 (b)	C	C2	0.036336032
+CW_1	CW_23909.fna	Woeseiaceae (a)	C	C2	0.008125876
+CW_2	CW_maxbin_CW.098	Nitrososphaeraceae (a)	C	C2	0.011854997
+CW_3	CW_maxbin_CW.218	Nitrososphaeraceae (b)	C	C2	0.008475655
+CW_4	CW_metabat_CW.108.fa	RKRQ02 (a)	C	C2	0.043241384
+CW_5	CW_metabat_CW.111.fa	UBA6522 (a)	C	C2	0.016508302
+CW_6	CW_metabat_CW.121.fa	Methyloligellaceae	C	C2	0.008007664
+CW_7	CW_metabat_CW.123.fa	E44-bin32 (b)	C	C2	0.009241605
+CW_8	CW_metabat_CW.131.fa	UBA6522 (b)	C	C2	0.019739822
+CW_9	CW_metabat_CW.20.fa	SG8-38	C	C2	0.024467386
+CW_10	CW_metabat_CW.37.fa	UBA6522 (c)	C	C2	0.012002589
+CW_11	CW_metabat_CW.57.fa	UBA6522 (d)	C	C2	0.016231163
+CW_12	CW_metabat_CW.86.fa	UBA4486	C	C2	0.003634043
+CW_13	CW_metabat_CW.95.fa	JACQBZ02	C	C2	0.002282121
+CW_14	CW_metabat_CW.96.fa	GWC2-71-9	C	C2	0.008937399
+L_1	L_25727.fna	Sporolactobacillaceae (a)	C	C2	0.000000000
+L_2	L_maxbin_L.002	Paenibacillaceae	C	C2	0.000000000
+L_3	L_maxbin_L.006	Domibacillaceae	C	C2	0.000000000
+L_4	L_maxbin_L.259	Sporolactobacillaceae (b)	C	C2	0.000000000
+L_5	L_metabat_L.102.fa	Jiangellales	C	C2	0.012658424
+L_6	L_metabat_L.108.fa	SM23-39	C	C2	0.000000000
+L_7	L_metabat_L.119.fa	Flavobacteriaceae	C	C2	0.002664286
+L_8	L_metabat_L.121.fa	Streptomycetaceae	C	C2	0.005030844
+L_9	L_metabat_L.18.fa	Rhodobacteraceae	C	C2	0.021168316
+L_10	L_metabat_L.41.fa	RKRQ01	C	C2	0.037567428
+L_11	L_metabat_L.45.fa	Cellulomonadaceae	C	C2	0.003714316
+L_12	L_metabat_L.59.fa	CECT-8803	C	C2	0.015992425
+L_13	L_metabat_L.70.fa	UBA8139	C	C2	0.013911566
+L_14	L_metabat_L.95.fa	Planctomycetaceae	C	C2	0.000000000
+LW_1	LW_10211.fna	GWA1-39-11	C	C2	0.000000000
+LW_2	LW_10984.fna	DSSB01	C	C2	0.000000000
+LW_3	LW_maxbin_LW.013	Latescibacterales	C	C2	0.000000000
+LW_4	LW_maxbin_LW.016	Bacillaceae_C	C	C2	0.000000000
+LW_5	LW_maxbin_LW.091	Cyclobacteriaceae	C	C2	0.003504495
+LW_6	LW_maxbin_LW.269	Lacipirellulaceae	C	C2	0.004815934
+LW_7	LW_maxbin_LW.310	SZUA-584	C	C2	0.000000000
+LW_8	LW_metabat_LW.102.fa	JAFGWO01	C	C2	0.005159004
+LW_9	LW_metabat_LW.105.fa	QNYZ01	C	C2	0.005406995
+LW_10	LW_metabat_LW.111.fa	UBA6522 (e)	C	C2	0.011670623
+LW_11	LW_metabat_LW.129.fa	UBA11606	C	C2	0.016586725
+LW_12	LW_metabat_LW.136.fa	Alkalibacteraceae	C	C2	0.000000000
+LW_13	LW_metabat_LW.149.fa	Balneolaceae (b)	C	C2	0.000000000
+LW_14	LW_metabat_LW.17.fa	Promineofilaceae (b)	C	C2	0.009628629
+LW_15	LW_metabat_LW.43.fa	Desulfobacterales	C	C2	0.003524390
+LW_16	LW_metabat_LW.90.fa	UMGS416	C	C2	0.000000000
+LW_17	LW_metabat_LW.95.fa	Anaerolineaceae	C	C2	0.001558736
+P_1	P_18661.fna	Halobacteriales (a)	C	C2	0.037215105
+P_2	P_25546.fna	Hyphomicrobiaceae	C	C2	0.011584104
+P_3	P_25897.fna	JAENVV01	C	C2	0.023208460
+P_4	P_maxbin_P.068	SG8-13 (a)	C	C2	0.019152694
+P_5	P_maxbin_P.091	HXMU1428-3	C	C2	0.001787989
+P_6	P_metabat_P.121.fa	RKSH01	C	C2	0.012896699
+P_7	P_metabat_P.131.fa	SG8-41	C	C2	0.025101012
+P_8	P_metabat_P.37.fa	RKRQ02 (b)	C	C2	0.009190711
+P_9	P_metabat_P.50.fa	Woeseiaceae (b)	C	C2	0.019819864
+P_10	P_metabat_P.57.fa	Halobacteriales (b)	C	C2	0.032678393
+P_11	P_metabat_P.77.fa	SG8-13 (b)	C	C2	0.021499125
+PW_1	PW_19550.fna	70-9 (a)	C	C2	0.005565228
+PW_2	PW_metabat_PW.84.fa	70-9 (b)	C	C2	0.009889575
+C_1	C_27077.fna	UBA5704 (a)	C	C3	0.021870522
+C_2	C_maxbin_C.028.fasta	HGW-15	C	C3	0.017067133
+C_3	C_metabat_C.121.fa	ZC4RG35 (a)	C	C3	0.030381617
+C_4	C_metabat_C.124.fa	Micropepsaceae	C	C3	0.012916974
+C_5	C_metabat_C.125.fa	SZUA-232	C	C3	0.055288638
+C_6	C_metabat_C.19.fa	Nitriliruptoraceae	C	C3	0.017805303
+C_7	C_metabat_C.25.fa	E44-bin32 (a)	C	C3	0.028417657
+C_8	C_metabat_C.37.fa	SZUA-229	C	C3	0.021158193
+C_9	C_metabat_C.46.fa	JABDQX01	C	C3	0.017151174
+C_10	C_metabat_C.60.fa	UBA5704 (b)	C	C3	0.022544875
+C_11	C_metabat_C.7.fa	Pseudonocardiaceae	C	C3	0.034888390
+C_12	C_metabat_C.74.fa	Balneolaceae (a)	C	C3	0.015769211
+C_13	C_metabat_C.81.fa	Promineofilaceae (a)	C	C3	0.017307572
+C_14	C_metabat_C.83.fa	UBA5704 (c)	C	C3	0.019038284
+C_15	C_metabat_C.95.fa	J153	C	C3	0.028097221
+C_16	C_metabat_C.98.fa	ZC4RG35 (b)	C	C3	0.041864495
+CW_1	CW_23909.fna	Woeseiaceae (a)	C	C3	0.006508485
+CW_2	CW_maxbin_CW.098	Nitrososphaeraceae (a)	C	C3	0.008506826
+CW_3	CW_maxbin_CW.218	Nitrososphaeraceae (b)	C	C3	0.006418826
+CW_4	CW_metabat_CW.108.fa	RKRQ02 (a)	C	C3	0.045287045
+CW_5	CW_metabat_CW.111.fa	UBA6522 (a)	C	C3	0.016638162
+CW_6	CW_metabat_CW.121.fa	Methyloligellaceae	C	C3	0.007483948
+CW_7	CW_metabat_CW.123.fa	E44-bin32 (b)	C	C3	0.006337031
+CW_8	CW_metabat_CW.131.fa	UBA6522 (b)	C	C3	0.019825216
+CW_9	CW_metabat_CW.20.fa	SG8-38	C	C3	0.021811873
+CW_10	CW_metabat_CW.37.fa	UBA6522 (c)	C	C3	0.010355061
+CW_11	CW_metabat_CW.57.fa	UBA6522 (d)	C	C3	0.014485895
+CW_12	CW_metabat_CW.86.fa	UBA4486	C	C3	0.002648426
+CW_13	CW_metabat_CW.95.fa	JACQBZ02	C	C3	0.001878346
+CW_14	CW_metabat_CW.96.fa	GWC2-71-9	C	C3	0.010201585
+L_1	L_25727.fna	Sporolactobacillaceae (a)	C	C3	0.000000000
+L_2	L_maxbin_L.002	Paenibacillaceae	C	C3	0.000000000
+L_3	L_maxbin_L.006	Domibacillaceae	C	C3	0.000000000
+L_4	L_maxbin_L.259	Sporolactobacillaceae (b)	C	C3	0.000000000
+L_5	L_metabat_L.102.fa	Jiangellales	C	C3	0.012612492
+L_6	L_metabat_L.108.fa	SM23-39	C	C3	0.000000000
+L_7	L_metabat_L.119.fa	Flavobacteriaceae	C	C3	0.005415048
+L_8	L_metabat_L.121.fa	Streptomycetaceae	C	C3	0.002891112
+L_9	L_metabat_L.18.fa	Rhodobacteraceae	C	C3	0.020917529
+L_10	L_metabat_L.41.fa	RKRQ01	C	C3	0.044135634
+L_11	L_metabat_L.45.fa	Cellulomonadaceae	C	C3	0.000000000
+L_12	L_metabat_L.59.fa	CECT-8803	C	C3	0.016445137
+L_13	L_metabat_L.70.fa	UBA8139	C	C3	0.013102359
+L_14	L_metabat_L.95.fa	Planctomycetaceae	C	C3	0.000000000
+LW_1	LW_10211.fna	GWA1-39-11	C	C3	0.000000000
+LW_2	LW_10984.fna	DSSB01	C	C3	0.000000000
+LW_3	LW_maxbin_LW.013	Latescibacterales	C	C3	0.000000000
+LW_4	LW_maxbin_LW.016	Bacillaceae_C	C	C3	0.000000000
+LW_5	LW_maxbin_LW.091	Cyclobacteriaceae	C	C3	0.004286333
+LW_6	LW_maxbin_LW.269	Lacipirellulaceae	C	C3	0.005342018
+LW_7	LW_maxbin_LW.310	SZUA-584	C	C3	0.000000000
+LW_8	LW_metabat_LW.102.fa	JAFGWO01	C	C3	0.010164732
+LW_9	LW_metabat_LW.105.fa	QNYZ01	C	C3	0.006443544
+LW_10	LW_metabat_LW.111.fa	UBA6522 (e)	C	C3	0.013876034
+LW_11	LW_metabat_LW.129.fa	UBA11606	C	C3	0.022039054
+LW_12	LW_metabat_LW.136.fa	Alkalibacteraceae	C	C3	0.000000000
+LW_13	LW_metabat_LW.149.fa	Balneolaceae (b)	C	C3	0.000000000
+LW_14	LW_metabat_LW.17.fa	Promineofilaceae (b)	C	C3	0.011909376
+LW_15	LW_metabat_LW.43.fa	Desulfobacterales	C	C3	0.004115554
+LW_16	LW_metabat_LW.90.fa	UMGS416	C	C3	0.000000000
+LW_17	LW_metabat_LW.95.fa	Anaerolineaceae	C	C3	0.004936642
+P_1	P_18661.fna	Halobacteriales (a)	C	C3	0.040229959
+P_2	P_25546.fna	Hyphomicrobiaceae	C	C3	0.009500042
+P_3	P_25897.fna	JAENVV01	C	C3	0.024514678
+P_4	P_maxbin_P.068	SG8-13 (a)	C	C3	0.017658568
+P_5	P_maxbin_P.091	HXMU1428-3	C	C3	0.001692062
+P_6	P_metabat_P.121.fa	RKSH01	C	C3	0.009409708
+P_7	P_metabat_P.131.fa	SG8-41	C	C3	0.017400601
+P_8	P_metabat_P.37.fa	RKRQ02 (b)	C	C3	0.008058081
+P_9	P_metabat_P.50.fa	Woeseiaceae (b)	C	C3	0.020260029
+P_10	P_metabat_P.57.fa	Halobacteriales (b)	C	C3	0.035641392
+P_11	P_metabat_P.77.fa	SG8-13 (b)	C	C3	0.023391356
+PW_1	PW_19550.fna	70-9 (a)	C	C3	0.004953720
+PW_2	PW_metabat_PW.84.fa	70-9 (b)	C	C3	0.008703222
+C_1	C_27077.fna	UBA5704 (a)	CW	CW1	0.019071634
+C_2	C_maxbin_C.028.fasta	HGW-15	CW	CW1	0.016691252
+C_3	C_metabat_C.121.fa	ZC4RG35 (a)	CW	CW1	0.020370483
+C_4	C_metabat_C.124.fa	Micropepsaceae	CW	CW1	0.019935852
+C_5	C_metabat_C.125.fa	SZUA-232	CW	CW1	0.046986918
+C_6	C_metabat_C.19.fa	Nitriliruptoraceae	CW	CW1	0.004014209
+C_7	C_metabat_C.25.fa	E44-bin32 (a)	CW	CW1	0.029156742
+C_8	C_metabat_C.37.fa	SZUA-229	CW	CW1	0.010778116
+C_9	C_metabat_C.46.fa	JABDQX01	CW	CW1	0.027417260
+C_10	C_metabat_C.60.fa	UBA5704 (b)	CW	CW1	0.029958047
+C_11	C_metabat_C.7.fa	Pseudonocardiaceae	CW	CW1	0.002387106
+C_12	C_metabat_C.74.fa	Balneolaceae (a)	CW	CW1	0.000000000
+C_13	C_metabat_C.81.fa	Promineofilaceae (a)	CW	CW1	0.026611393
+C_14	C_metabat_C.83.fa	UBA5704 (c)	CW	CW1	0.037320592
+C_15	C_metabat_C.95.fa	J153	CW	CW1	0.016455207
+C_16	C_metabat_C.98.fa	ZC4RG35 (b)	CW	CW1	0.037842869
+CW_1	CW_23909.fna	Woeseiaceae (a)	CW	CW1	0.026972784
+CW_2	CW_maxbin_CW.098	Nitrososphaeraceae (a)	CW	CW1	0.020147885
+CW_3	CW_maxbin_CW.218	Nitrososphaeraceae (b)	CW	CW1	0.014621834
+CW_4	CW_metabat_CW.108.fa	RKRQ02 (a)	CW	CW1	0.021970451
+CW_5	CW_metabat_CW.111.fa	UBA6522 (a)	CW	CW1	0.052986500
+CW_6	CW_metabat_CW.121.fa	Methyloligellaceae	CW	CW1	0.016662196
+CW_7	CW_metabat_CW.123.fa	E44-bin32 (b)	CW	CW1	0.015811905
+CW_8	CW_metabat_CW.131.fa	UBA6522 (b)	CW	CW1	0.033113321
+CW_9	CW_metabat_CW.20.fa	SG8-38	CW	CW1	0.036651597
+CW_10	CW_metabat_CW.37.fa	UBA6522 (c)	CW	CW1	0.037762426
+CW_11	CW_metabat_CW.57.fa	UBA6522 (d)	CW	CW1	0.030852041
+CW_12	CW_metabat_CW.86.fa	UBA4486	CW	CW1	0.014028960
+CW_13	CW_metabat_CW.95.fa	JACQBZ02	CW	CW1	0.015768202
+CW_14	CW_metabat_CW.96.fa	GWC2-71-9	CW	CW1	0.016026579
+L_1	L_25727.fna	Sporolactobacillaceae (a)	CW	CW1	0.000000000
+L_2	L_maxbin_L.002	Paenibacillaceae	CW	CW1	0.000000000
+L_3	L_maxbin_L.006	Domibacillaceae	CW	CW1	0.000000000
+L_4	L_maxbin_L.259	Sporolactobacillaceae (b)	CW	CW1	0.000000000
+L_5	L_metabat_L.102.fa	Jiangellales	CW	CW1	0.014549796
+L_6	L_metabat_L.108.fa	SM23-39	CW	CW1	0.000000000
+L_7	L_metabat_L.119.fa	Flavobacteriaceae	CW	CW1	0.002140975
+L_8	L_metabat_L.121.fa	Streptomycetaceae	CW	CW1	0.000000000
+L_9	L_metabat_L.18.fa	Rhodobacteraceae	CW	CW1	0.009554667
+L_10	L_metabat_L.41.fa	RKRQ01	CW	CW1	0.012987768
+L_11	L_metabat_L.45.fa	Cellulomonadaceae	CW	CW1	0.000000000
+L_12	L_metabat_L.59.fa	CECT-8803	CW	CW1	0.011867814
+L_13	L_metabat_L.70.fa	UBA8139	CW	CW1	0.014955611
+L_14	L_metabat_L.95.fa	Planctomycetaceae	CW	CW1	0.000000000
+LW_1	LW_10211.fna	GWA1-39-11	CW	CW1	0.000000000
+LW_2	LW_10984.fna	DSSB01	CW	CW1	0.000000000
+LW_3	LW_maxbin_LW.013	Latescibacterales	CW	CW1	0.000000000
+LW_4	LW_maxbin_LW.016	Bacillaceae_C	CW	CW1	0.000000000
+LW_5	LW_maxbin_LW.091	Cyclobacteriaceae	CW	CW1	0.003465038
+LW_6	LW_maxbin_LW.269	Lacipirellulaceae	CW	CW1	0.005341633
+LW_7	LW_maxbin_LW.310	SZUA-584	CW	CW1	0.000000000
+LW_8	LW_metabat_LW.102.fa	JAFGWO01	CW	CW1	0.011297511
+LW_9	LW_metabat_LW.105.fa	QNYZ01	CW	CW1	0.008435193
+LW_10	LW_metabat_LW.111.fa	UBA6522 (e)	CW	CW1	0.015494457
+LW_11	LW_metabat_LW.129.fa	UBA11606	CW	CW1	0.021940916
+LW_12	LW_metabat_LW.136.fa	Alkalibacteraceae	CW	CW1	0.000000000
+LW_13	LW_metabat_LW.149.fa	Balneolaceae (b)	CW	CW1	0.000000000
+LW_14	LW_metabat_LW.17.fa	Promineofilaceae (b)	CW	CW1	0.010872486
+LW_15	LW_metabat_LW.43.fa	Desulfobacterales	CW	CW1	0.004674559
+LW_16	LW_metabat_LW.90.fa	UMGS416	CW	CW1	0.000000000
+LW_17	LW_metabat_LW.95.fa	Anaerolineaceae	CW	CW1	0.002627233
+P_1	P_18661.fna	Halobacteriales (a)	CW	CW1	0.000000000
+P_2	P_25546.fna	Hyphomicrobiaceae	CW	CW1	0.017492557
+P_3	P_25897.fna	JAENVV01	CW	CW1	0.017524734
+P_4	P_maxbin_P.068	SG8-13 (a)	CW	CW1	0.014366099
+P_5	P_maxbin_P.091	HXMU1428-3	CW	CW1	0.008981963
+P_6	P_metabat_P.121.fa	RKSH01	CW	CW1	0.008248855
+P_7	P_metabat_P.131.fa	SG8-41	CW	CW1	0.013276401
+P_8	P_metabat_P.37.fa	RKRQ02 (b)	CW	CW1	0.011018003
+P_9	P_metabat_P.50.fa	Woeseiaceae (b)	CW	CW1	0.017452215
+P_10	P_metabat_P.57.fa	Halobacteriales (b)	CW	CW1	0.001171101
+P_11	P_metabat_P.77.fa	SG8-13 (b)	CW	CW1	0.023493819
+PW_1	PW_19550.fna	70-9 (a)	CW	CW1	0.006348247
+PW_2	PW_metabat_PW.84.fa	70-9 (b)	CW	CW1	0.012045988
+C_1	C_27077.fna	UBA5704 (a)	CW	CW2	0.023621046
+C_2	C_maxbin_C.028.fasta	HGW-15	CW	CW2	0.017251656
+C_3	C_metabat_C.121.fa	ZC4RG35 (a)	CW	CW2	0.020517980
+C_4	C_metabat_C.124.fa	Micropepsaceae	CW	CW2	0.017725684
+C_5	C_metabat_C.125.fa	SZUA-232	CW	CW2	0.043921117
+C_6	C_metabat_C.19.fa	Nitriliruptoraceae	CW	CW2	0.003939273
+C_7	C_metabat_C.25.fa	E44-bin32 (a)	CW	CW2	0.023052074
+C_8	C_metabat_C.37.fa	SZUA-229	CW	CW2	0.006820955
+C_9	C_metabat_C.46.fa	JABDQX01	CW	CW2	0.026893854
+C_10	C_metabat_C.60.fa	UBA5704 (b)	CW	CW2	0.031082993
+C_11	C_metabat_C.7.fa	Pseudonocardiaceae	CW	CW2	0.002332625
+C_12	C_metabat_C.74.fa	Balneolaceae (a)	CW	CW2	0.000000000
+C_13	C_metabat_C.81.fa	Promineofilaceae (a)	CW	CW2	0.017317886
+C_14	C_metabat_C.83.fa	UBA5704 (c)	CW	CW2	0.041173283
+C_15	C_metabat_C.95.fa	J153	CW	CW2	0.013462442
+C_16	C_metabat_C.98.fa	ZC4RG35 (b)	CW	CW2	0.025113760
+CW_1	CW_23909.fna	Woeseiaceae (a)	CW	CW2	0.039796356
+CW_2	CW_maxbin_CW.098	Nitrososphaeraceae (a)	CW	CW2	0.027659432
+CW_3	CW_maxbin_CW.218	Nitrososphaeraceae (b)	CW	CW2	0.016715335
+CW_4	CW_metabat_CW.108.fa	RKRQ02 (a)	CW	CW2	0.024401444
+CW_5	CW_metabat_CW.111.fa	UBA6522 (a)	CW	CW2	0.055178994
+CW_6	CW_metabat_CW.121.fa	Methyloligellaceae	CW	CW2	0.016960802
+CW_7	CW_metabat_CW.123.fa	E44-bin32 (b)	CW	CW2	0.015637136
+CW_8	CW_metabat_CW.131.fa	UBA6522 (b)	CW	CW2	0.038907813
+CW_9	CW_metabat_CW.20.fa	SG8-38	CW	CW2	0.032141741
+CW_10	CW_metabat_CW.37.fa	UBA6522 (c)	CW	CW2	0.041077412
+CW_11	CW_metabat_CW.57.fa	UBA6522 (d)	CW	CW2	0.028230257
+CW_12	CW_metabat_CW.86.fa	UBA4486	CW	CW2	0.020192622
+CW_13	CW_metabat_CW.95.fa	JACQBZ02	CW	CW2	0.024232396
+CW_14	CW_metabat_CW.96.fa	GWC2-71-9	CW	CW2	0.017749073
+L_1	L_25727.fna	Sporolactobacillaceae (a)	CW	CW2	0.000000000
+L_2	L_maxbin_L.002	Paenibacillaceae	CW	CW2	0.000000000
+L_3	L_maxbin_L.006	Domibacillaceae	CW	CW2	0.000000000
+L_4	L_maxbin_L.259	Sporolactobacillaceae (b)	CW	CW2	0.000000000
+L_5	L_metabat_L.102.fa	Jiangellales	CW	CW2	0.008543620
+L_6	L_metabat_L.108.fa	SM23-39	CW	CW2	0.000000000
+L_7	L_metabat_L.119.fa	Flavobacteriaceae	CW	CW2	0.001522586
+L_8	L_metabat_L.121.fa	Streptomycetaceae	CW	CW2	0.000000000
+L_9	L_metabat_L.18.fa	Rhodobacteraceae	CW	CW2	0.007688193
+L_10	L_metabat_L.41.fa	RKRQ01	CW	CW2	0.011535994
+L_11	L_metabat_L.45.fa	Cellulomonadaceae	CW	CW2	0.000000000
+L_12	L_metabat_L.59.fa	CECT-8803	CW	CW2	0.011486901
+L_13	L_metabat_L.70.fa	UBA8139	CW	CW2	0.012386095
+L_14	L_metabat_L.95.fa	Planctomycetaceae	CW	CW2	0.000000000
+LW_1	LW_10211.fna	GWA1-39-11	CW	CW2	0.000000000
+LW_2	LW_10984.fna	DSSB01	CW	CW2	0.000000000
+LW_3	LW_maxbin_LW.013	Latescibacterales	CW	CW2	0.000000000
+LW_4	LW_maxbin_LW.016	Bacillaceae_C	CW	CW2	0.000000000
+LW_5	LW_maxbin_LW.091	Cyclobacteriaceae	CW	CW2	0.002783728
+LW_6	LW_maxbin_LW.269	Lacipirellulaceae	CW	CW2	0.004702071
+LW_7	LW_maxbin_LW.310	SZUA-584	CW	CW2	0.000000000
+LW_8	LW_metabat_LW.102.fa	JAFGWO01	CW	CW2	0.005005662
+LW_9	LW_metabat_LW.105.fa	QNYZ01	CW	CW2	0.006517596
+LW_10	LW_metabat_LW.111.fa	UBA6522 (e)	CW	CW2	0.013072475
+LW_11	LW_metabat_LW.129.fa	UBA11606	CW	CW2	0.016448101
+LW_12	LW_metabat_LW.136.fa	Alkalibacteraceae	CW	CW2	0.000000000
+LW_13	LW_metabat_LW.149.fa	Balneolaceae (b)	CW	CW2	0.000000000
+LW_14	LW_metabat_LW.17.fa	Promineofilaceae (b)	CW	CW2	0.009423594
+LW_15	LW_metabat_LW.43.fa	Desulfobacterales	CW	CW2	0.004243558
+LW_16	LW_metabat_LW.90.fa	UMGS416	CW	CW2	0.000000000
+LW_17	LW_metabat_LW.95.fa	Anaerolineaceae	CW	CW2	0.000000000
+P_1	P_18661.fna	Halobacteriales (a)	CW	CW2	0.001045316
+P_2	P_25546.fna	Hyphomicrobiaceae	CW	CW2	0.021257853
+P_3	P_25897.fna	JAENVV01	CW	CW2	0.023121545
+P_4	P_maxbin_P.068	SG8-13 (a)	CW	CW2	0.012482661
+P_5	P_maxbin_P.091	HXMU1428-3	CW	CW2	0.007125936
+P_6	P_metabat_P.121.fa	RKSH01	CW	CW2	0.007152335
+P_7	P_metabat_P.131.fa	SG8-41	CW	CW2	0.017897048
+P_8	P_metabat_P.37.fa	RKRQ02 (b)	CW	CW2	0.011356063
+P_9	P_metabat_P.50.fa	Woeseiaceae (b)	CW	CW2	0.020261167
+P_10	P_metabat_P.57.fa	Halobacteriales (b)	CW	CW2	0.002183956
+P_11	P_metabat_P.77.fa	SG8-13 (b)	CW	CW2	0.029727602
+PW_1	PW_19550.fna	70-9 (a)	CW	CW2	0.005957655
+PW_2	PW_metabat_PW.84.fa	70-9 (b)	CW	CW2	0.011963245
+C_1	C_27077.fna	UBA5704 (a)	CW	CW3	0.021679173
+C_2	C_maxbin_C.028.fasta	HGW-15	CW	CW3	0.014904520
+C_3	C_metabat_C.121.fa	ZC4RG35 (a)	CW	CW3	0.020246051
+C_4	C_metabat_C.124.fa	Micropepsaceae	CW	CW3	0.018080502
+C_5	C_metabat_C.125.fa	SZUA-232	CW	CW3	0.039480723
+C_6	C_metabat_C.19.fa	Nitriliruptoraceae	CW	CW3	0.004290606
+C_7	C_metabat_C.25.fa	E44-bin32 (a)	CW	CW3	0.016547212
+C_8	C_metabat_C.37.fa	SZUA-229	CW	CW3	0.007122988
+C_9	C_metabat_C.46.fa	JABDQX01	CW	CW3	0.025250850
+C_10	C_metabat_C.60.fa	UBA5704 (b)	CW	CW3	0.033839165
+C_11	C_metabat_C.7.fa	Pseudonocardiaceae	CW	CW3	0.001760619
+C_12	C_metabat_C.74.fa	Balneolaceae (a)	CW	CW3	0.000000000
+C_13	C_metabat_C.81.fa	Promineofilaceae (a)	CW	CW3	0.012850505
+C_14	C_metabat_C.83.fa	UBA5704 (c)	CW	CW3	0.048975751
+C_15	C_metabat_C.95.fa	J153	CW	CW3	0.015527071
+C_16	C_metabat_C.98.fa	ZC4RG35 (b)	CW	CW3	0.023106613
+CW_1	CW_23909.fna	Woeseiaceae (a)	CW	CW3	0.041191377
+CW_2	CW_maxbin_CW.098	Nitrososphaeraceae (a)	CW	CW3	0.035881341
+CW_3	CW_maxbin_CW.218	Nitrososphaeraceae (b)	CW	CW3	0.017086409
+CW_4	CW_metabat_CW.108.fa	RKRQ02 (a)	CW	CW3	0.023637995
+CW_5	CW_metabat_CW.111.fa	UBA6522 (a)	CW	CW3	0.055151059
+CW_6	CW_metabat_CW.121.fa	Methyloligellaceae	CW	CW3	0.017331972
+CW_7	CW_metabat_CW.123.fa	E44-bin32 (b)	CW	CW3	0.016203140
+CW_8	CW_metabat_CW.131.fa	UBA6522 (b)	CW	CW3	0.042308843
+CW_9	CW_metabat_CW.20.fa	SG8-38	CW	CW3	0.030194080
+CW_10	CW_metabat_CW.37.fa	UBA6522 (c)	CW	CW3	0.041306225
+CW_11	CW_metabat_CW.57.fa	UBA6522 (d)	CW	CW3	0.025500202
+CW_12	CW_metabat_CW.86.fa	UBA4486	CW	CW3	0.011949001
+CW_13	CW_metabat_CW.95.fa	JACQBZ02	CW	CW3	0.021012577
+CW_14	CW_metabat_CW.96.fa	GWC2-71-9	CW	CW3	0.017516677
+L_1	L_25727.fna	Sporolactobacillaceae (a)	CW	CW3	0.000000000
+L_2	L_maxbin_L.002	Paenibacillaceae	CW	CW3	0.000000000
+L_3	L_maxbin_L.006	Domibacillaceae	CW	CW3	0.000000000
+L_4	L_maxbin_L.259	Sporolactobacillaceae (b)	CW	CW3	0.000000000
+L_5	L_metabat_L.102.fa	Jiangellales	CW	CW3	0.008349856
+L_6	L_metabat_L.108.fa	SM23-39	CW	CW3	0.000000000
+L_7	L_metabat_L.119.fa	Flavobacteriaceae	CW	CW3	0.001427676
+L_8	L_metabat_L.121.fa	Streptomycetaceae	CW	CW3	0.000000000
+L_9	L_metabat_L.18.fa	Rhodobacteraceae	CW	CW3	0.008624546
+L_10	L_metabat_L.41.fa	RKRQ01	CW	CW3	0.009840521
+L_11	L_metabat_L.45.fa	Cellulomonadaceae	CW	CW3	0.000000000
+L_12	L_metabat_L.59.fa	CECT-8803	CW	CW3	0.012692084
+L_13	L_metabat_L.70.fa	UBA8139	CW	CW3	0.013732116
+L_14	L_metabat_L.95.fa	Planctomycetaceae	CW	CW3	0.000000000
+LW_1	LW_10211.fna	GWA1-39-11	CW	CW3	0.000000000
+LW_2	LW_10984.fna	DSSB01	CW	CW3	0.000000000
+LW_3	LW_maxbin_LW.013	Latescibacterales	CW	CW3	0.000000000
+LW_4	LW_maxbin_LW.016	Bacillaceae_C	CW	CW3	0.000000000
+LW_5	LW_maxbin_LW.091	Cyclobacteriaceae	CW	CW3	0.002867429
+LW_6	LW_maxbin_LW.269	Lacipirellulaceae	CW	CW3	0.004863902
+LW_7	LW_maxbin_LW.310	SZUA-584	CW	CW3	0.000000000
+LW_8	LW_metabat_LW.102.fa	JAFGWO01	CW	CW3	0.003878571
+LW_9	LW_metabat_LW.105.fa	QNYZ01	CW	CW3	0.004970699
+LW_10	LW_metabat_LW.111.fa	UBA6522 (e)	CW	CW3	0.012282418
+LW_11	LW_metabat_LW.129.fa	UBA11606	CW	CW3	0.015910453
+LW_12	LW_metabat_LW.136.fa	Alkalibacteraceae	CW	CW3	0.000000000
+LW_13	LW_metabat_LW.149.fa	Balneolaceae (b)	CW	CW3	0.000000000
+LW_14	LW_metabat_LW.17.fa	Promineofilaceae (b)	CW	CW3	0.007973579
+LW_15	LW_metabat_LW.43.fa	Desulfobacterales	CW	CW3	0.004098560
+LW_16	LW_metabat_LW.90.fa	UMGS416	CW	CW3	0.000000000
+LW_17	LW_metabat_LW.95.fa	Anaerolineaceae	CW	CW3	0.000000000
+P_1	P_18661.fna	Halobacteriales (a)	CW	CW3	0.000000000
+P_2	P_25546.fna	Hyphomicrobiaceae	CW	CW3	0.025949888
+P_3	P_25897.fna	JAENVV01	CW	CW3	0.028997522
+P_4	P_maxbin_P.068	SG8-13 (a)	CW	CW3	0.011808815
+P_5	P_maxbin_P.091	HXMU1428-3	CW	CW3	0.004268583
+P_6	P_metabat_P.121.fa	RKSH01	CW	CW3	0.009305587
+P_7	P_metabat_P.131.fa	SG8-41	CW	CW3	0.022687000
+P_8	P_metabat_P.37.fa	RKRQ02 (b)	CW	CW3	0.011253516
+P_9	P_metabat_P.50.fa	Woeseiaceae (b)	CW	CW3	0.026678999
+P_10	P_metabat_P.57.fa	Halobacteriales (b)	CW	CW3	0.000000000
+P_11	P_metabat_P.77.fa	SG8-13 (b)	CW	CW3	0.026144538
+PW_1	PW_19550.fna	70-9 (a)	CW	CW3	0.006753104
+PW_2	PW_metabat_PW.84.fa	70-9 (b)	CW	CW3	0.014706791
+C_1	C_27077.fna	UBA5704 (a)	L	L1	0.010175669
+C_2	C_maxbin_C.028.fasta	HGW-15	L	L1	0.008407407
+C_3	C_metabat_C.121.fa	ZC4RG35 (a)	L	L1	0.025695036
+C_4	C_metabat_C.124.fa	Micropepsaceae	L	L1	0.007900318
+C_5	C_metabat_C.125.fa	SZUA-232	L	L1	0.038197470
+C_6	C_metabat_C.19.fa	Nitriliruptoraceae	L	L1	0.017685033
+C_7	C_metabat_C.25.fa	E44-bin32 (a)	L	L1	0.015006430
+C_8	C_metabat_C.37.fa	SZUA-229	L	L1	0.007613807
+C_9	C_metabat_C.46.fa	JABDQX01	L	L1	0.009588735
+C_10	C_metabat_C.60.fa	UBA5704 (b)	L	L1	0.012323189
+C_11	C_metabat_C.7.fa	Pseudonocardiaceae	L	L1	0.045014652
+C_12	C_metabat_C.74.fa	Balneolaceae (a)	L	L1	0.003566565
+C_13	C_metabat_C.81.fa	Promineofilaceae (a)	L	L1	0.012357869
+C_14	C_metabat_C.83.fa	UBA5704 (c)	L	L1	0.013422052
+C_15	C_metabat_C.95.fa	J153	L	L1	0.014453369
+C_16	C_metabat_C.98.fa	ZC4RG35 (b)	L	L1	0.021784093
+CW_1	CW_23909.fna	Woeseiaceae (a)	L	L1	0.004162774
+CW_2	CW_maxbin_CW.098	Nitrososphaeraceae (a)	L	L1	0.006746613
+CW_3	CW_maxbin_CW.218	Nitrososphaeraceae (b)	L	L1	0.005121103
+CW_4	CW_metabat_CW.108.fa	RKRQ02 (a)	L	L1	0.028899883
+CW_5	CW_metabat_CW.111.fa	UBA6522 (a)	L	L1	0.008713274
+CW_6	CW_metabat_CW.121.fa	Methyloligellaceae	L	L1	0.004589415
+CW_7	CW_metabat_CW.123.fa	E44-bin32 (b)	L	L1	0.004266813
+CW_8	CW_metabat_CW.131.fa	UBA6522 (b)	L	L1	0.008862478
+CW_9	CW_metabat_CW.20.fa	SG8-38	L	L1	0.014532407
+CW_10	CW_metabat_CW.37.fa	UBA6522 (c)	L	L1	0.005509435
+CW_11	CW_metabat_CW.57.fa	UBA6522 (d)	L	L1	0.009955493
+CW_12	CW_metabat_CW.86.fa	UBA4486	L	L1	0.001072853
+CW_13	CW_metabat_CW.95.fa	JACQBZ02	L	L1	0.000000000
+CW_14	CW_metabat_CW.96.fa	GWC2-71-9	L	L1	0.004226286
+L_1	L_25727.fna	Sporolactobacillaceae (a)	L	L1	0.024131425
+L_2	L_maxbin_L.002	Paenibacillaceae	L	L1	0.056795265
+L_3	L_maxbin_L.006	Domibacillaceae	L	L1	0.033752622
+L_4	L_maxbin_L.259	Sporolactobacillaceae (b)	L	L1	0.006887953
+L_5	L_metabat_L.102.fa	Jiangellales	L	L1	0.016124850
+L_6	L_metabat_L.108.fa	SM23-39	L	L1	0.020257783
+L_7	L_metabat_L.119.fa	Flavobacteriaceae	L	L1	0.015576225
+L_8	L_metabat_L.121.fa	Streptomycetaceae	L	L1	0.093568650
+L_9	L_metabat_L.18.fa	Rhodobacteraceae	L	L1	0.033505630
+L_10	L_metabat_L.41.fa	RKRQ01	L	L1	0.014873961
+L_11	L_metabat_L.45.fa	Cellulomonadaceae	L	L1	0.021703241
+L_12	L_metabat_L.59.fa	CECT-8803	L	L1	0.025638782
+L_13	L_metabat_L.70.fa	UBA8139	L	L1	0.026865274
+L_14	L_metabat_L.95.fa	Planctomycetaceae	L	L1	0.017038822
+LW_1	LW_10211.fna	GWA1-39-11	L	L1	0.000000000
+LW_2	LW_10984.fna	DSSB01	L	L1	0.000000000
+LW_3	LW_maxbin_LW.013	Latescibacterales	L	L1	0.000000000
+LW_4	LW_maxbin_LW.016	Bacillaceae_C	L	L1	0.027413092
+LW_5	LW_maxbin_LW.091	Cyclobacteriaceae	L	L1	0.010909185
+LW_6	LW_maxbin_LW.269	Lacipirellulaceae	L	L1	0.006000999
+LW_7	LW_maxbin_LW.310	SZUA-584	L	L1	0.000000000
+LW_8	LW_metabat_LW.102.fa	JAFGWO01	L	L1	0.004501707
+LW_9	LW_metabat_LW.105.fa	QNYZ01	L	L1	0.003252432
+LW_10	LW_metabat_LW.111.fa	UBA6522 (e)	L	L1	0.013342409
+LW_11	LW_metabat_LW.129.fa	UBA11606	L	L1	0.016269416
+LW_12	LW_metabat_LW.136.fa	Alkalibacteraceae	L	L1	0.000000000
+LW_13	LW_metabat_LW.149.fa	Balneolaceae (b)	L	L1	0.000000000
+LW_14	LW_metabat_LW.17.fa	Promineofilaceae (b)	L	L1	0.007846080
+LW_15	LW_metabat_LW.43.fa	Desulfobacterales	L	L1	0.002185023
+LW_16	LW_metabat_LW.90.fa	UMGS416	L	L1	0.000000000
+LW_17	LW_metabat_LW.95.fa	Anaerolineaceae	L	L1	0.001803546
+P_1	P_18661.fna	Halobacteriales (a)	L	L1	0.009222582
+P_2	P_25546.fna	Hyphomicrobiaceae	L	L1	0.010687598
+P_3	P_25897.fna	JAENVV01	L	L1	0.018993990
+P_4	P_maxbin_P.068	SG8-13 (a)	L	L1	0.011606206
+P_5	P_maxbin_P.091	HXMU1428-3	L	L1	0.001993881
+P_6	P_metabat_P.121.fa	RKSH01	L	L1	0.009623213
+P_7	P_metabat_P.131.fa	SG8-41	L	L1	0.012451222
+P_8	P_metabat_P.37.fa	RKRQ02 (b)	L	L1	0.005712069
+P_9	P_metabat_P.50.fa	Woeseiaceae (b)	L	L1	0.017042249
+P_10	P_metabat_P.57.fa	Halobacteriales (b)	L	L1	0.005197317
+P_11	P_metabat_P.77.fa	SG8-13 (b)	L	L1	0.012308470
+PW_1	PW_19550.fna	70-9 (a)	L	L1	0.006323198
+PW_2	PW_metabat_PW.84.fa	70-9 (b)	L	L1	0.008743115
+C_1	C_27077.fna	UBA5704 (a)	L	L2	0.007945984
+C_2	C_maxbin_C.028.fasta	HGW-15	L	L2	0.007143323
+C_3	C_metabat_C.121.fa	ZC4RG35 (a)	L	L2	0.021511649
+C_4	C_metabat_C.124.fa	Micropepsaceae	L	L2	0.007598157
+C_5	C_metabat_C.125.fa	SZUA-232	L	L2	0.037041438
+C_6	C_metabat_C.19.fa	Nitriliruptoraceae	L	L2	0.013356505
+C_7	C_metabat_C.25.fa	E44-bin32 (a)	L	L2	0.012120749
+C_8	C_metabat_C.37.fa	SZUA-229	L	L2	0.009209811
+C_9	C_metabat_C.46.fa	JABDQX01	L	L2	0.007868103
+C_10	C_metabat_C.60.fa	UBA5704 (b)	L	L2	0.011890694
+C_11	C_metabat_C.7.fa	Pseudonocardiaceae	L	L2	0.038078375
+C_12	C_metabat_C.74.fa	Balneolaceae (a)	L	L2	0.003118621
+C_13	C_metabat_C.81.fa	Promineofilaceae (a)	L	L2	0.011425096
+C_14	C_metabat_C.83.fa	UBA5704 (c)	L	L2	0.011203905
+C_15	C_metabat_C.95.fa	J153	L	L2	0.016315776
+C_16	C_metabat_C.98.fa	ZC4RG35 (b)	L	L2	0.023087422
+CW_1	CW_23909.fna	Woeseiaceae (a)	L	L2	0.003768897
+CW_2	CW_maxbin_CW.098	Nitrososphaeraceae (a)	L	L2	0.005533147
+CW_3	CW_maxbin_CW.218	Nitrososphaeraceae (b)	L	L2	0.004491144
+CW_4	CW_metabat_CW.108.fa	RKRQ02 (a)	L	L2	0.026709844
+CW_5	CW_metabat_CW.111.fa	UBA6522 (a)	L	L2	0.008029141
+CW_6	CW_metabat_CW.121.fa	Methyloligellaceae	L	L2	0.004205580
+CW_7	CW_metabat_CW.123.fa	E44-bin32 (b)	L	L2	0.003604481
+CW_8	CW_metabat_CW.131.fa	UBA6522 (b)	L	L2	0.008616099
+CW_9	CW_metabat_CW.20.fa	SG8-38	L	L2	0.014721007
+CW_10	CW_metabat_CW.37.fa	UBA6522 (c)	L	L2	0.005391104
+CW_11	CW_metabat_CW.57.fa	UBA6522 (d)	L	L2	0.010131509
+CW_12	CW_metabat_CW.86.fa	UBA4486	L	L2	0.001063953
+CW_13	CW_metabat_CW.95.fa	JACQBZ02	L	L2	0.000000000
+CW_14	CW_metabat_CW.96.fa	GWC2-71-9	L	L2	0.003755178
+L_1	L_25727.fna	Sporolactobacillaceae (a)	L	L2	0.030787310
+L_2	L_maxbin_L.002	Paenibacillaceae	L	L2	0.075796894
+L_3	L_maxbin_L.006	Domibacillaceae	L	L2	0.042929588
+L_4	L_maxbin_L.259	Sporolactobacillaceae (b)	L	L2	0.009468570
+L_5	L_metabat_L.102.fa	Jiangellales	L	L2	0.016925317
+L_6	L_metabat_L.108.fa	SM23-39	L	L2	0.011527671
+L_7	L_metabat_L.119.fa	Flavobacteriaceae	L	L2	0.013453170
+L_8	L_metabat_L.121.fa	Streptomycetaceae	L	L2	0.073348176
+L_9	L_metabat_L.18.fa	Rhodobacteraceae	L	L2	0.036232445
+L_10	L_metabat_L.41.fa	RKRQ01	L	L2	0.013702432
+L_11	L_metabat_L.45.fa	Cellulomonadaceae	L	L2	0.050468226
+L_12	L_metabat_L.59.fa	CECT-8803	L	L2	0.026449818
+L_13	L_metabat_L.70.fa	UBA8139	L	L2	0.023272522
+L_14	L_metabat_L.95.fa	Planctomycetaceae	L	L2	0.010375072
+LW_1	LW_10211.fna	GWA1-39-11	L	L2	0.000000000
+LW_2	LW_10984.fna	DSSB01	L	L2	0.000000000
+LW_3	LW_maxbin_LW.013	Latescibacterales	L	L2	0.000000000
+LW_4	LW_maxbin_LW.016	Bacillaceae_C	L	L2	0.038163222
+LW_5	LW_maxbin_LW.091	Cyclobacteriaceae	L	L2	0.011696097
+LW_6	LW_maxbin_LW.269	Lacipirellulaceae	L	L2	0.006768903
+LW_7	LW_maxbin_LW.310	SZUA-584	L	L2	0.000000000
+LW_8	LW_metabat_LW.102.fa	JAFGWO01	L	L2	0.005945558
+LW_9	LW_metabat_LW.105.fa	QNYZ01	L	L2	0.003214232
+LW_10	LW_metabat_LW.111.fa	UBA6522 (e)	L	L2	0.013458658
+LW_11	LW_metabat_LW.129.fa	UBA11606	L	L2	0.015375926
+LW_12	LW_metabat_LW.136.fa	Alkalibacteraceae	L	L2	0.000000000
+LW_13	LW_metabat_LW.149.fa	Balneolaceae (b)	L	L2	0.000000000
+LW_14	LW_metabat_LW.17.fa	Promineofilaceae (b)	L	L2	0.007034838
+LW_15	LW_metabat_LW.43.fa	Desulfobacterales	L	L2	0.002035251
+LW_16	LW_metabat_LW.90.fa	UMGS416	L	L2	0.000000000
+LW_17	LW_metabat_LW.95.fa	Anaerolineaceae	L	L2	0.002194179
+P_1	P_18661.fna	Halobacteriales (a)	L	L2	0.012031260
+P_2	P_25546.fna	Hyphomicrobiaceae	L	L2	0.009284948
+P_3	P_25897.fna	JAENVV01	L	L2	0.014874237
+P_4	P_maxbin_P.068	SG8-13 (a)	L	L2	0.010707914
+P_5	P_maxbin_P.091	HXMU1428-3	L	L2	0.002441119
+P_6	P_metabat_P.121.fa	RKSH01	L	L2	0.008397019
+P_7	P_metabat_P.131.fa	SG8-41	L	L2	0.011629191
+P_8	P_metabat_P.37.fa	RKRQ02 (b)	L	L2	0.005545177
+P_9	P_metabat_P.50.fa	Woeseiaceae (b)	L	L2	0.013879511
+P_10	P_metabat_P.57.fa	Halobacteriales (b)	L	L2	0.007180047
+P_11	P_metabat_P.77.fa	SG8-13 (b)	L	L2	0.010616525
+PW_1	PW_19550.fna	70-9 (a)	L	L2	0.006016685
+PW_2	PW_metabat_PW.84.fa	70-9 (b)	L	L2	0.007835600
+C_1	C_27077.fna	UBA5704 (a)	L	L3	0.0097386407
+C_2	C_maxbin_C.028.fasta	HGW-15	L	L3	0.0091516983
+C_3	C_metabat_C.121.fa	ZC4RG35 (a)	L	L3	0.0243990154
+C_4	C_metabat_C.124.fa	Micropepsaceae	L	L3	0.0094773552
+C_5	C_metabat_C.125.fa	SZUA-232	L	L3	0.0382721808
+C_6	C_metabat_C.19.fa	Nitriliruptoraceae	L	L3	0.0184453266
+C_7	C_metabat_C.25.fa	E44-bin32 (a)	L	L3	0.0162748017
+C_8	C_metabat_C.37.fa	SZUA-229	L	L3	0.0109829320
+C_9	C_metabat_C.46.fa	JABDQX01	L	L3	0.0085153596
+C_10	C_metabat_C.60.fa	UBA5704 (b)	L	L3	0.0118407710
+C_11	C_metabat_C.7.fa	Pseudonocardiaceae	L	L3	0.0420846248
+C_12	C_metabat_C.74.fa	Balneolaceae (a)	L	L3	0.0091490161
+C_13	C_metabat_C.81.fa	Promineofilaceae (a)	L	L3	0.0127073269
+C_14	C_metabat_C.83.fa	UBA5704 (c)	L	L3	0.0124373244
+C_15	C_metabat_C.95.fa	J153	L	L3	0.0196936411
+C_16	C_metabat_C.98.fa	ZC4RG35 (b)	L	L3	0.0312027202
+CW_1	CW_23909.fna	Woeseiaceae (a)	L	L3	0.0036309522
+CW_2	CW_maxbin_CW.098	Nitrososphaeraceae (a)	L	L3	0.0067882825
+CW_3	CW_maxbin_CW.218	Nitrososphaeraceae (b)	L	L3	0.0058017006
+CW_4	CW_metabat_CW.108.fa	RKRQ02 (a)	L	L3	0.0266526867
+CW_5	CW_metabat_CW.111.fa	UBA6522 (a)	L	L3	0.0094923305
+CW_6	CW_metabat_CW.121.fa	Methyloligellaceae	L	L3	0.0040933985
+CW_7	CW_metabat_CW.123.fa	E44-bin32 (b)	L	L3	0.0034905867
+CW_8	CW_metabat_CW.131.fa	UBA6522 (b)	L	L3	0.0109480641
+CW_9	CW_metabat_CW.20.fa	SG8-38	L	L3	0.0153134767
+CW_10	CW_metabat_CW.37.fa	UBA6522 (c)	L	L3	0.0055656720
+CW_11	CW_metabat_CW.57.fa	UBA6522 (d)	L	L3	0.0096353782
+CW_12	CW_metabat_CW.86.fa	UBA4486	L	L3	0.0009921697
+CW_13	CW_metabat_CW.95.fa	JACQBZ02	L	L3	0.0000000000
+CW_14	CW_metabat_CW.96.fa	GWC2-71-9	L	L3	0.0048924539
+L_1	L_25727.fna	Sporolactobacillaceae (a)	L	L3	0.0264119643
+L_2	L_maxbin_L.002	Paenibacillaceae	L	L3	0.0621294032
+L_3	L_maxbin_L.006	Domibacillaceae	L	L3	0.0354313435
+L_4	L_maxbin_L.259	Sporolactobacillaceae (b)	L	L3	0.0072905140
+L_5	L_metabat_L.102.fa	Jiangellales	L	L3	0.0197812578
+L_6	L_metabat_L.108.fa	SM23-39	L	L3	0.0116029542
+L_7	L_metabat_L.119.fa	Flavobacteriaceae	L	L3	0.0183092078
+L_8	L_metabat_L.121.fa	Streptomycetaceae	L	L3	0.0514971615
+L_9	L_metabat_L.18.fa	Rhodobacteraceae	L	L3	0.0373323129
+L_10	L_metabat_L.41.fa	RKRQ01	L	L3	0.0150517441
+L_11	L_metabat_L.45.fa	Cellulomonadaceae	L	L3	0.0072127318
+L_12	L_metabat_L.59.fa	CECT-8803	L	L3	0.0256263197
+L_13	L_metabat_L.70.fa	UBA8139	L	L3	0.0234839573
+L_14	L_metabat_L.95.fa	Planctomycetaceae	L	L3	0.0091709203
+LW_1	LW_10211.fna	GWA1-39-11	L	L3	0.0000000000
+LW_2	LW_10984.fna	DSSB01	L	L3	0.0000000000
+LW_3	LW_maxbin_LW.013	Latescibacterales	L	L3	0.0000000000
+LW_4	LW_maxbin_LW.016	Bacillaceae_C	L	L3	0.0292834228
+LW_5	LW_maxbin_LW.091	Cyclobacteriaceae	L	L3	0.0114438137
+LW_6	LW_maxbin_LW.269	Lacipirellulaceae	L	L3	0.0064322279
+LW_7	LW_maxbin_LW.310	SZUA-584	L	L3	0.0000000000
+LW_8	LW_metabat_LW.102.fa	JAFGWO01	L	L3	0.0064331220
+LW_9	LW_metabat_LW.105.fa	QNYZ01	L	L3	0.0041854854
+LW_10	LW_metabat_LW.111.fa	UBA6522 (e)	L	L3	0.0160065873
+LW_11	LW_metabat_LW.129.fa	UBA11606	L	L3	0.0199540325
+LW_12	LW_metabat_LW.136.fa	Alkalibacteraceae	L	L3	0.0000000000
+LW_13	LW_metabat_LW.149.fa	Balneolaceae (b)	L	L3	0.0000000000
+LW_14	LW_metabat_LW.17.fa	Promineofilaceae (b)	L	L3	0.0092670304
+LW_15	LW_metabat_LW.43.fa	Desulfobacterales	L	L3	0.0024979700
+LW_16	LW_metabat_LW.90.fa	UMGS416	L	L3	0.0000000000
+LW_17	LW_metabat_LW.95.fa	Anaerolineaceae	L	L3	0.0028969388
+P_1	P_18661.fna	Halobacteriales (a)	L	L3	0.0091074429
+P_2	P_25546.fna	Hyphomicrobiaceae	L	L3	0.0101644311
+P_3	P_25897.fna	JAENVV01	L	L3	0.0204913553
+P_4	P_maxbin_P.068	SG8-13 (a)	L	L3	0.0123881518
+P_5	P_maxbin_P.091	HXMU1428-3	L	L3	0.0020670388
+P_6	P_metabat_P.121.fa	RKSH01	L	L3	0.0107366217
+P_7	P_metabat_P.131.fa	SG8-41	L	L3	0.0137564922
+P_8	P_metabat_P.37.fa	RKRQ02 (b)	L	L3	0.0058823884
+P_9	P_metabat_P.50.fa	Woeseiaceae (b)	L	L3	0.0203038288
+P_10	P_metabat_P.57.fa	Halobacteriales (b)	L	L3	0.0115613810
+P_11	P_metabat_P.77.fa	SG8-13 (b)	L	L3	0.0121447473
+PW_1	PW_19550.fna	70-9 (a)	L	L3	0.0095251868
+PW_2	PW_metabat_PW.84.fa	70-9 (b)	L	L3	0.0114686235
+C_1	C_27077.fna	UBA5704 (a)	LW	LW1	0.009507997
+C_2	C_maxbin_C.028.fasta	HGW-15	LW	LW1	0.014857680
+C_3	C_metabat_C.121.fa	ZC4RG35 (a)	LW	LW1	0.014376138
+C_4	C_metabat_C.124.fa	Micropepsaceae	LW	LW1	0.004968031
+C_5	C_metabat_C.125.fa	SZUA-232	LW	LW1	0.017993127
+C_6	C_metabat_C.19.fa	Nitriliruptoraceae	LW	LW1	0.004736215
+C_7	C_metabat_C.25.fa	E44-bin32 (a)	LW	LW1	0.012162407
+C_8	C_metabat_C.37.fa	SZUA-229	LW	LW1	0.008376916
+C_9	C_metabat_C.46.fa	JABDQX01	LW	LW1	0.007036468
+C_10	C_metabat_C.60.fa	UBA5704 (b)	LW	LW1	0.014314590
+C_11	C_metabat_C.7.fa	Pseudonocardiaceae	LW	LW1	0.002038671
+C_12	C_metabat_C.74.fa	Balneolaceae (a)	LW	LW1	0.003076169
+C_13	C_metabat_C.81.fa	Promineofilaceae (a)	LW	LW1	0.009290559
+C_14	C_metabat_C.83.fa	UBA5704 (c)	LW	LW1	0.012204028
+C_15	C_metabat_C.95.fa	J153	LW	LW1	0.009773867
+C_16	C_metabat_C.98.fa	ZC4RG35 (b)	LW	LW1	0.027293776
+CW_1	CW_23909.fna	Woeseiaceae (a)	LW	LW1	0.004709981
+CW_2	CW_maxbin_CW.098	Nitrososphaeraceae (a)	LW	LW1	0.011634703
+CW_3	CW_maxbin_CW.218	Nitrososphaeraceae (b)	LW	LW1	0.006283002
+CW_4	CW_metabat_CW.108.fa	RKRQ02 (a)	LW	LW1	0.018927203
+CW_5	CW_metabat_CW.111.fa	UBA6522 (a)	LW	LW1	0.009059247
+CW_6	CW_metabat_CW.121.fa	Methyloligellaceae	LW	LW1	0.005331773
+CW_7	CW_metabat_CW.123.fa	E44-bin32 (b)	LW	LW1	0.002632716
+CW_8	CW_metabat_CW.131.fa	UBA6522 (b)	LW	LW1	0.018400004
+CW_9	CW_metabat_CW.20.fa	SG8-38	LW	LW1	0.018164908
+CW_10	CW_metabat_CW.37.fa	UBA6522 (c)	LW	LW1	0.009314018
+CW_11	CW_metabat_CW.57.fa	UBA6522 (d)	LW	LW1	0.016287928
+CW_12	CW_metabat_CW.86.fa	UBA4486	LW	LW1	0.002044473
+CW_13	CW_metabat_CW.95.fa	JACQBZ02	LW	LW1	0.000000000
+CW_14	CW_metabat_CW.96.fa	GWC2-71-9	LW	LW1	0.009608896
+L_1	L_25727.fna	Sporolactobacillaceae (a)	LW	LW1	0.020602636
+L_2	L_maxbin_L.002	Paenibacillaceae	LW	LW1	0.062733409
+L_3	L_maxbin_L.006	Domibacillaceae	LW	LW1	0.036135838
+L_4	L_maxbin_L.259	Sporolactobacillaceae (b)	LW	LW1	0.005625138
+L_5	L_metabat_L.102.fa	Jiangellales	LW	LW1	0.010074799
+L_6	L_metabat_L.108.fa	SM23-39	LW	LW1	0.000000000
+L_7	L_metabat_L.119.fa	Flavobacteriaceae	LW	LW1	0.011804971
+L_8	L_metabat_L.121.fa	Streptomycetaceae	LW	LW1	0.002034635
+L_9	L_metabat_L.18.fa	Rhodobacteraceae	LW	LW1	0.017516882
+L_10	L_metabat_L.41.fa	RKRQ01	LW	LW1	0.012314260
+L_11	L_metabat_L.45.fa	Cellulomonadaceae	LW	LW1	0.000000000
+L_12	L_metabat_L.59.fa	CECT-8803	LW	LW1	0.016998007
+L_13	L_metabat_L.70.fa	UBA8139	LW	LW1	0.011314348
+L_14	L_metabat_L.95.fa	Planctomycetaceae	LW	LW1	0.001488265
+LW_1	LW_10211.fna	GWA1-39-11	LW	LW1	0.033563157
+LW_2	LW_10984.fna	DSSB01	LW	LW1	0.000000000
+LW_3	LW_maxbin_LW.013	Latescibacterales	LW	LW1	0.020411937
+LW_4	LW_maxbin_LW.016	Bacillaceae_C	LW	LW1	0.020352658
+LW_5	LW_maxbin_LW.091	Cyclobacteriaceae	LW	LW1	0.012799838
+LW_6	LW_maxbin_LW.269	Lacipirellulaceae	LW	LW1	0.008316376
+LW_7	LW_maxbin_LW.310	SZUA-584	LW	LW1	0.003441172
+LW_8	LW_metabat_LW.102.fa	JAFGWO01	LW	LW1	0.020428585
+LW_9	LW_metabat_LW.105.fa	QNYZ01	LW	LW1	0.015640659
+LW_10	LW_metabat_LW.111.fa	UBA6522 (e)	LW	LW1	0.046822087
+LW_11	LW_metabat_LW.129.fa	UBA11606	LW	LW1	0.028226843
+LW_12	LW_metabat_LW.136.fa	Alkalibacteraceae	LW	LW1	0.012259018
+LW_13	LW_metabat_LW.149.fa	Balneolaceae (b)	LW	LW1	0.027752364
+LW_14	LW_metabat_LW.17.fa	Promineofilaceae (b)	LW	LW1	0.012587445
+LW_15	LW_metabat_LW.43.fa	Desulfobacterales	LW	LW1	0.022039948
+LW_16	LW_metabat_LW.90.fa	UMGS416	LW	LW1	0.003018656
+LW_17	LW_metabat_LW.95.fa	Anaerolineaceae	LW	LW1	0.016121444
+P_1	P_18661.fna	Halobacteriales (a)	LW	LW1	0.000000000
+P_2	P_25546.fna	Hyphomicrobiaceae	LW	LW1	0.014492929
+P_3	P_25897.fna	JAENVV01	LW	LW1	0.012239090
+P_4	P_maxbin_P.068	SG8-13 (a)	LW	LW1	0.018760971
+P_5	P_maxbin_P.091	HXMU1428-3	LW	LW1	0.003214653
+P_6	P_metabat_P.121.fa	RKSH01	LW	LW1	0.010930678
+P_7	P_metabat_P.131.fa	SG8-41	LW	LW1	0.008359006
+P_8	P_metabat_P.37.fa	RKRQ02 (b)	LW	LW1	0.002872604
+P_9	P_metabat_P.50.fa	Woeseiaceae (b)	LW	LW1	0.043498210
+P_10	P_metabat_P.57.fa	Halobacteriales (b)	LW	LW1	0.001189351
+P_11	P_metabat_P.77.fa	SG8-13 (b)	LW	LW1	0.039329302
+PW_1	PW_19550.fna	70-9 (a)	LW	LW1	0.014186700
+PW_2	PW_metabat_PW.84.fa	70-9 (b)	LW	LW1	0.014095638
+C_1	C_27077.fna	UBA5704 (a)	LW	LW2	0.0114942032
+C_2	C_maxbin_C.028.fasta	HGW-15	LW	LW2	0.0203927116
+C_3	C_metabat_C.121.fa	ZC4RG35 (a)	LW	LW2	0.0135660826
+C_4	C_metabat_C.124.fa	Micropepsaceae	LW	LW2	0.0051921521
+C_5	C_metabat_C.125.fa	SZUA-232	LW	LW2	0.0270071204
+C_6	C_metabat_C.19.fa	Nitriliruptoraceae	LW	LW2	0.0045082184
+C_7	C_metabat_C.25.fa	E44-bin32 (a)	LW	LW2	0.0165107335
+C_8	C_metabat_C.37.fa	SZUA-229	LW	LW2	0.0070990842
+C_9	C_metabat_C.46.fa	JABDQX01	LW	LW2	0.0096701259
+C_10	C_metabat_C.60.fa	UBA5704 (b)	LW	LW2	0.0137066308
+C_11	C_metabat_C.7.fa	Pseudonocardiaceae	LW	LW2	0.0116662668
+C_12	C_metabat_C.74.fa	Balneolaceae (a)	LW	LW2	0.0020116444
+C_13	C_metabat_C.81.fa	Promineofilaceae (a)	LW	LW2	0.0108229773
+C_14	C_metabat_C.83.fa	UBA5704 (c)	LW	LW2	0.0144530869
+C_15	C_metabat_C.95.fa	J153	LW	LW2	0.0089912753
+C_16	C_metabat_C.98.fa	ZC4RG35 (b)	LW	LW2	0.0241453243
+CW_1	CW_23909.fna	Woeseiaceae (a)	LW	LW2	0.0052152803
+CW_2	CW_maxbin_CW.098	Nitrososphaeraceae (a)	LW	LW2	0.0114662461
+CW_3	CW_maxbin_CW.218	Nitrososphaeraceae (b)	LW	LW2	0.0067496198
+CW_4	CW_metabat_CW.108.fa	RKRQ02 (a)	LW	LW2	0.0114164315
+CW_5	CW_metabat_CW.111.fa	UBA6522 (a)	LW	LW2	0.0111912493
+CW_6	CW_metabat_CW.121.fa	Methyloligellaceae	LW	LW2	0.0057881478
+CW_7	CW_metabat_CW.123.fa	E44-bin32 (b)	LW	LW2	0.0031032442
+CW_8	CW_metabat_CW.131.fa	UBA6522 (b)	LW	LW2	0.0146963141
+CW_9	CW_metabat_CW.20.fa	SG8-38	LW	LW2	0.0219176474
+CW_10	CW_metabat_CW.37.fa	UBA6522 (c)	LW	LW2	0.0074111877
+CW_11	CW_metabat_CW.57.fa	UBA6522 (d)	LW	LW2	0.0147194423
+CW_12	CW_metabat_CW.86.fa	UBA4486	LW	LW2	0.0024909825
+CW_13	CW_metabat_CW.95.fa	JACQBZ02	LW	LW2	0.0000000000
+CW_14	CW_metabat_CW.96.fa	GWC2-71-9	LW	LW2	0.0103543137
+L_1	L_25727.fna	Sporolactobacillaceae (a)	LW	LW2	0.0284596217
+L_2	L_maxbin_L.002	Paenibacillaceae	LW	LW2	0.0768679446
+L_3	L_maxbin_L.006	Domibacillaceae	LW	LW2	0.0383554381
+L_4	L_maxbin_L.259	Sporolactobacillaceae (b)	LW	LW2	0.0062840061
+L_5	L_metabat_L.102.fa	Jiangellales	LW	LW2	0.0110639172
+L_6	L_metabat_L.108.fa	SM23-39	LW	LW2	0.0000000000
+L_7	L_metabat_L.119.fa	Flavobacteriaceae	LW	LW2	0.0086090248
+L_8	L_metabat_L.121.fa	Streptomycetaceae	LW	LW2	0.0000000000
+L_9	L_metabat_L.18.fa	Rhodobacteraceae	LW	LW2	0.0117732665
+L_10	L_metabat_L.41.fa	RKRQ01	LW	LW2	0.0111937909
+L_11	L_metabat_L.45.fa	Cellulomonadaceae	LW	LW2	0.0000000000
+L_12	L_metabat_L.59.fa	CECT-8803	LW	LW2	0.0135396504
+L_13	L_metabat_L.70.fa	UBA8139	LW	LW2	0.0113640754
+L_14	L_metabat_L.95.fa	Planctomycetaceae	LW	LW2	0.0000000000
+LW_1	LW_10211.fna	GWA1-39-11	LW	LW2	0.0148930308
+LW_2	LW_10984.fna	DSSB01	LW	LW2	0.0000000000
+LW_3	LW_maxbin_LW.013	Latescibacterales	LW	LW2	0.0357655889
+LW_4	LW_maxbin_LW.016	Bacillaceae_C	LW	LW2	0.0204946282
+LW_5	LW_maxbin_LW.091	Cyclobacteriaceae	LW	LW2	0.0117181146
+LW_6	LW_maxbin_LW.269	Lacipirellulaceae	LW	LW2	0.0138497206
+LW_7	LW_maxbin_LW.310	SZUA-584	LW	LW2	0.0133614870
+LW_8	LW_metabat_LW.102.fa	JAFGWO01	LW	LW2	0.0181325027
+LW_9	LW_metabat_LW.105.fa	QNYZ01	LW	LW2	0.0216876362
+LW_10	LW_metabat_LW.111.fa	UBA6522 (e)	LW	LW2	0.0197016616
+LW_11	LW_metabat_LW.129.fa	UBA11606	LW	LW2	0.0266025041
+LW_12	LW_metabat_LW.136.fa	Alkalibacteraceae	LW	LW2	0.0121646666
+LW_13	LW_metabat_LW.149.fa	Balneolaceae (b)	LW	LW2	0.0166258662
+LW_14	LW_metabat_LW.17.fa	Promineofilaceae (b)	LW	LW2	0.0121974527
+LW_15	LW_metabat_LW.43.fa	Desulfobacterales	LW	LW2	0.0248678897
+LW_16	LW_metabat_LW.90.fa	UMGS416	LW	LW2	0.0125192142
+LW_17	LW_metabat_LW.95.fa	Anaerolineaceae	LW	LW2	0.0135991229
+P_1	P_18661.fna	Halobacteriales (a)	LW	LW2	0.0007733966
+P_2	P_25546.fna	Hyphomicrobiaceae	LW	LW2	0.0144922269
+P_3	P_25897.fna	JAENVV01	LW	LW2	0.0107965451
+P_4	P_maxbin_P.068	SG8-13 (a)	LW	LW2	0.0198361101
+P_5	P_maxbin_P.091	HXMU1428-3	LW	LW2	0.0092553434
+P_6	P_metabat_P.121.fa	RKSH01	LW	LW2	0.0095801547
+P_7	P_metabat_P.131.fa	SG8-41	LW	LW2	0.0052183301
+P_8	P_metabat_P.37.fa	RKRQ02 (b)	LW	LW2	0.0036570501
+P_9	P_metabat_P.50.fa	Woeseiaceae (b)	LW	LW2	0.0287559676
+P_10	P_metabat_P.57.fa	Halobacteriales (b)	LW	LW2	0.0019488679
+P_11	P_metabat_P.77.fa	SG8-13 (b)	LW	LW2	0.0447738927
+PW_1	PW_19550.fna	70-9 (a)	LW	LW2	0.0081624728
+PW_2	PW_metabat_PW.84.fa	70-9 (b)	LW	LW2	0.0093000748
+C_1	C_27077.fna	UBA5704 (a)	LW	LW3	0.012538202
+C_2	C_maxbin_C.028.fasta	HGW-15	LW	LW3	0.015125632
+C_3	C_metabat_C.121.fa	ZC4RG35 (a)	LW	LW3	0.020553955
+C_4	C_metabat_C.124.fa	Micropepsaceae	LW	LW3	0.005143087
+C_5	C_metabat_C.125.fa	SZUA-232	LW	LW3	0.031507114
+C_6	C_metabat_C.19.fa	Nitriliruptoraceae	LW	LW3	0.003688718
+C_7	C_metabat_C.25.fa	E44-bin32 (a)	LW	LW3	0.020935225
+C_8	C_metabat_C.37.fa	SZUA-229	LW	LW3	0.008113699
+C_9	C_metabat_C.46.fa	JABDQX01	LW	LW3	0.006749153
+C_10	C_metabat_C.60.fa	UBA5704 (b)	LW	LW3	0.012973222
+C_11	C_metabat_C.7.fa	Pseudonocardiaceae	LW	LW3	0.003367171
+C_12	C_metabat_C.74.fa	Balneolaceae (a)	LW	LW3	0.001710699
+C_13	C_metabat_C.81.fa	Promineofilaceae (a)	LW	LW3	0.012677953
+C_14	C_metabat_C.83.fa	UBA5704 (c)	LW	LW3	0.013647134
+C_15	C_metabat_C.95.fa	J153	LW	LW3	0.008499747
+C_16	C_metabat_C.98.fa	ZC4RG35 (b)	LW	LW3	0.030377876
+CW_1	CW_23909.fna	Woeseiaceae (a)	LW	LW3	0.005272566
+CW_2	CW_maxbin_CW.098	Nitrososphaeraceae (a)	LW	LW3	0.008819861
+CW_3	CW_maxbin_CW.218	Nitrososphaeraceae (b)	LW	LW3	0.005323450
+CW_4	CW_metabat_CW.108.fa	RKRQ02 (a)	LW	LW3	0.010832519
+CW_5	CW_metabat_CW.111.fa	UBA6522 (a)	LW	LW3	0.010710684
+CW_6	CW_metabat_CW.121.fa	Methyloligellaceae	LW	LW3	0.005604386
+CW_7	CW_metabat_CW.123.fa	E44-bin32 (b)	LW	LW3	0.003473477
+CW_8	CW_metabat_CW.131.fa	UBA6522 (b)	LW	LW3	0.015714259
+CW_9	CW_metabat_CW.20.fa	SG8-38	LW	LW3	0.020212102
+CW_10	CW_metabat_CW.37.fa	UBA6522 (c)	LW	LW3	0.007274952
+CW_11	CW_metabat_CW.57.fa	UBA6522 (d)	LW	LW3	0.013024584
+CW_12	CW_metabat_CW.86.fa	UBA4486	LW	LW3	0.002505490
+CW_13	CW_metabat_CW.95.fa	JACQBZ02	LW	LW3	0.000000000
+CW_14	CW_metabat_CW.96.fa	GWC2-71-9	LW	LW3	0.011525781
+L_1	L_25727.fna	Sporolactobacillaceae (a)	LW	LW3	0.026465794
+L_2	L_maxbin_L.002	Paenibacillaceae	LW	LW3	0.066289187
+L_3	L_maxbin_L.006	Domibacillaceae	LW	LW3	0.039508773
+L_4	L_maxbin_L.259	Sporolactobacillaceae (b)	LW	LW3	0.006919960
+L_5	L_metabat_L.102.fa	Jiangellales	LW	LW3	0.011443841
+L_6	L_metabat_L.108.fa	SM23-39	LW	LW3	0.000000000
+L_7	L_metabat_L.119.fa	Flavobacteriaceae	LW	LW3	0.009967733
+L_8	L_metabat_L.121.fa	Streptomycetaceae	LW	LW3	0.002209743
+L_9	L_metabat_L.18.fa	Rhodobacteraceae	LW	LW3	0.013961515
+L_10	L_metabat_L.41.fa	RKRQ01	LW	LW3	0.007077150
+L_11	L_metabat_L.45.fa	Cellulomonadaceae	LW	LW3	0.000000000
+L_12	L_metabat_L.59.fa	CECT-8803	LW	LW3	0.012345417
+L_13	L_metabat_L.70.fa	UBA8139	LW	LW3	0.012210682
+L_14	L_metabat_L.95.fa	Planctomycetaceae	LW	LW3	0.001099138
+LW_1	LW_10211.fna	GWA1-39-11	LW	LW3	0.004134728
+LW_2	LW_10984.fna	DSSB01	LW	LW3	0.032260816
+LW_3	LW_maxbin_LW.013	Latescibacterales	LW	LW3	0.027464120
+LW_4	LW_maxbin_LW.016	Bacillaceae_C	LW	LW3	0.021261312
+LW_5	LW_maxbin_LW.091	Cyclobacteriaceae	LW	LW3	0.010768735
+LW_6	LW_maxbin_LW.269	Lacipirellulaceae	LW	LW3	0.009385316
+LW_7	LW_maxbin_LW.310	SZUA-584	LW	LW3	0.012791904
+LW_8	LW_metabat_LW.102.fa	JAFGWO01	LW	LW3	0.017514543
+LW_9	LW_metabat_LW.105.fa	QNYZ01	LW	LW3	0.019582624
+LW_10	LW_metabat_LW.111.fa	UBA6522 (e)	LW	LW3	0.024273251
+LW_11	LW_metabat_LW.129.fa	UBA11606	LW	LW3	0.027654755
+LW_12	LW_metabat_LW.136.fa	Alkalibacteraceae	LW	LW3	0.021594087
+LW_13	LW_metabat_LW.149.fa	Balneolaceae (b)	LW	LW3	0.013173174
+LW_14	LW_metabat_LW.17.fa	Promineofilaceae (b)	LW	LW3	0.013909437
+LW_15	LW_metabat_LW.43.fa	Desulfobacterales	LW	LW3	0.020059689
+LW_16	LW_metabat_LW.90.fa	UMGS416	LW	LW3	0.013227164
+LW_17	LW_metabat_LW.95.fa	Anaerolineaceae	LW	LW3	0.024239568
+P_1	P_18661.fna	Halobacteriales (a)	LW	LW3	0.000000000
+P_2	P_25546.fna	Hyphomicrobiaceae	LW	LW3	0.010569739
+P_3	P_25897.fna	JAENVV01	LW	LW3	0.017050139
+P_4	P_maxbin_P.068	SG8-13 (a)	LW	LW3	0.020216880
+P_5	P_maxbin_P.091	HXMU1428-3	LW	LW3	0.005018386
+P_6	P_metabat_P.121.fa	RKSH01	LW	LW3	0.007679395
+P_7	P_metabat_P.131.fa	SG8-41	LW	LW3	0.005219294
+P_8	P_metabat_P.37.fa	RKRQ02 (b)	LW	LW3	0.002729331
+P_9	P_metabat_P.50.fa	Woeseiaceae (b)	LW	LW3	0.023619167
+P_10	P_metabat_P.57.fa	Halobacteriales (b)	LW	LW3	0.001169850
+P_11	P_metabat_P.77.fa	SG8-13 (b)	LW	LW3	0.036846570
+PW_1	PW_19550.fna	70-9 (a)	LW	LW3	0.009675569
+PW_2	PW_metabat_PW.84.fa	70-9 (b)	LW	LW3	0.009508823
+C_1	C_27077.fna	UBA5704 (a)	P	P1	0.026039965
+C_2	C_maxbin_C.028.fasta	HGW-15	P	P1	0.009680735
+C_3	C_metabat_C.121.fa	ZC4RG35 (a)	P	P1	0.031314674
+C_4	C_metabat_C.124.fa	Micropepsaceae	P	P1	0.012805896
+C_5	C_metabat_C.125.fa	SZUA-232	P	P1	0.046690066
+C_6	C_metabat_C.19.fa	Nitriliruptoraceae	P	P1	0.024082569
+C_7	C_metabat_C.25.fa	E44-bin32 (a)	P	P1	0.018108708
+C_8	C_metabat_C.37.fa	SZUA-229	P	P1	0.015640201
+C_9	C_metabat_C.46.fa	JABDQX01	P	P1	0.014625061
+C_10	C_metabat_C.60.fa	UBA5704 (b)	P	P1	0.023988207
+C_11	C_metabat_C.7.fa	Pseudonocardiaceae	P	P1	0.026509036
+C_12	C_metabat_C.74.fa	Balneolaceae (a)	P	P1	0.033744340
+C_13	C_metabat_C.81.fa	Promineofilaceae (a)	P	P1	0.016936830
+C_14	C_metabat_C.83.fa	UBA5704 (c)	P	P1	0.018919816
+C_15	C_metabat_C.95.fa	J153	P	P1	0.021340799
+C_16	C_metabat_C.98.fa	ZC4RG35 (b)	P	P1	0.044545773
+CW_1	CW_23909.fna	Woeseiaceae (a)	P	P1	0.006873162
+CW_2	CW_maxbin_CW.098	Nitrososphaeraceae (a)	P	P1	0.011586722
+CW_3	CW_maxbin_CW.218	Nitrososphaeraceae (b)	P	P1	0.006776514
+CW_4	CW_metabat_CW.108.fa	RKRQ02 (a)	P	P1	0.044264285
+CW_5	CW_metabat_CW.111.fa	UBA6522 (a)	P	P1	0.016444682
+CW_6	CW_metabat_CW.121.fa	Methyloligellaceae	P	P1	0.006721679
+CW_7	CW_metabat_CW.123.fa	E44-bin32 (b)	P	P1	0.006142023
+CW_8	CW_metabat_CW.131.fa	UBA6522 (b)	P	P1	0.022540323
+CW_9	CW_metabat_CW.20.fa	SG8-38	P	P1	0.021356336
+CW_10	CW_metabat_CW.37.fa	UBA6522 (c)	P	P1	0.011692052
+CW_11	CW_metabat_CW.57.fa	UBA6522 (d)	P	P1	0.013258973
+CW_12	CW_metabat_CW.86.fa	UBA4486	P	P1	0.002142465
+CW_13	CW_metabat_CW.95.fa	JACQBZ02	P	P1	0.000000000
+CW_14	CW_metabat_CW.96.fa	GWC2-71-9	P	P1	0.008429802
+L_1	L_25727.fna	Sporolactobacillaceae (a)	P	P1	0.000000000
+L_2	L_maxbin_L.002	Paenibacillaceae	P	P1	0.000000000
+L_3	L_maxbin_L.006	Domibacillaceae	P	P1	0.000000000
+L_4	L_maxbin_L.259	Sporolactobacillaceae (b)	P	P1	0.000000000
+L_5	L_metabat_L.102.fa	Jiangellales	P	P1	0.014473121
+L_6	L_metabat_L.108.fa	SM23-39	P	P1	0.000000000
+L_7	L_metabat_L.119.fa	Flavobacteriaceae	P	P1	0.009182875
+L_8	L_metabat_L.121.fa	Streptomycetaceae	P	P1	0.003411676
+L_9	L_metabat_L.18.fa	Rhodobacteraceae	P	P1	0.028513270
+L_10	L_metabat_L.41.fa	RKRQ01	P	P1	0.022452130
+L_11	L_metabat_L.45.fa	Cellulomonadaceae	P	P1	0.000000000
+L_12	L_metabat_L.59.fa	CECT-8803	P	P1	0.021009959
+L_13	L_metabat_L.70.fa	UBA8139	P	P1	0.013779910
+L_14	L_metabat_L.95.fa	Planctomycetaceae	P	P1	0.000000000
+LW_1	LW_10211.fna	GWA1-39-11	P	P1	0.000000000
+LW_2	LW_10984.fna	DSSB01	P	P1	0.000000000
+LW_3	LW_maxbin_LW.013	Latescibacterales	P	P1	0.000000000
+LW_4	LW_maxbin_LW.016	Bacillaceae_C	P	P1	0.000000000
+LW_5	LW_maxbin_LW.091	Cyclobacteriaceae	P	P1	0.004759028
+LW_6	LW_maxbin_LW.269	Lacipirellulaceae	P	P1	0.005486511
+LW_7	LW_maxbin_LW.310	SZUA-584	P	P1	0.000000000
+LW_8	LW_metabat_LW.102.fa	JAFGWO01	P	P1	0.007466298
+LW_9	LW_metabat_LW.105.fa	QNYZ01	P	P1	0.004398714
+LW_10	LW_metabat_LW.111.fa	UBA6522 (e)	P	P1	0.013689431
+LW_11	LW_metabat_LW.129.fa	UBA11606	P	P1	0.019728638
+LW_12	LW_metabat_LW.136.fa	Alkalibacteraceae	P	P1	0.000000000
+LW_13	LW_metabat_LW.149.fa	Balneolaceae (b)	P	P1	0.000000000
+LW_14	LW_metabat_LW.17.fa	Promineofilaceae (b)	P	P1	0.010919101
+LW_15	LW_metabat_LW.43.fa	Desulfobacterales	P	P1	0.003033997
+LW_16	LW_metabat_LW.90.fa	UMGS416	P	P1	0.000000000
+LW_17	LW_metabat_LW.95.fa	Anaerolineaceae	P	P1	0.003238945
+P_1	P_18661.fna	Halobacteriales (a)	P	P1	0.037663472
+P_2	P_25546.fna	Hyphomicrobiaceae	P	P1	0.013183346
+P_3	P_25897.fna	JAENVV01	P	P1	0.029702513
+P_4	P_maxbin_P.068	SG8-13 (a)	P	P1	0.015976525
+P_5	P_maxbin_P.091	HXMU1428-3	P	P1	0.013478544
+P_6	P_metabat_P.121.fa	RKSH01	P	P1	0.019699392
+P_7	P_metabat_P.131.fa	SG8-41	P	P1	0.023596134
+P_8	P_metabat_P.37.fa	RKRQ02 (b)	P	P1	0.007426999
+P_9	P_metabat_P.50.fa	Woeseiaceae (b)	P	P1	0.024806397
+P_10	P_metabat_P.57.fa	Halobacteriales (b)	P	P1	0.027839937
+P_11	P_metabat_P.77.fa	SG8-13 (b)	P	P1	0.016997149
+PW_1	PW_19550.fna	70-9 (a)	P	P1	0.008769781
+PW_2	PW_metabat_PW.84.fa	70-9 (b)	P	P1	0.012114513
+C_1	C_27077.fna	UBA5704 (a)	P	P2	0.028003201
+C_2	C_maxbin_C.028.fasta	HGW-15	P	P2	0.009629424
+C_3	C_metabat_C.121.fa	ZC4RG35 (a)	P	P2	0.029168563
+C_4	C_metabat_C.124.fa	Micropepsaceae	P	P2	0.012180412
+C_5	C_metabat_C.125.fa	SZUA-232	P	P2	0.034612750
+C_6	C_metabat_C.19.fa	Nitriliruptoraceae	P	P2	0.019236632
+C_7	C_metabat_C.25.fa	E44-bin32 (a)	P	P2	0.018302641
+C_8	C_metabat_C.37.fa	SZUA-229	P	P2	0.009111616
+C_9	C_metabat_C.46.fa	JABDQX01	P	P2	0.019213235
+C_10	C_metabat_C.60.fa	UBA5704 (b)	P	P2	0.026807115
+C_11	C_metabat_C.7.fa	Pseudonocardiaceae	P	P2	0.018775781
+C_12	C_metabat_C.74.fa	Balneolaceae (a)	P	P2	0.016851551
+C_13	C_metabat_C.81.fa	Promineofilaceae (a)	P	P2	0.018260337
+C_14	C_metabat_C.83.fa	UBA5704 (c)	P	P2	0.026740705
+C_15	C_metabat_C.95.fa	J153	P	P2	0.019348418
+C_16	C_metabat_C.98.fa	ZC4RG35 (b)	P	P2	0.039958623
+CW_1	CW_23909.fna	Woeseiaceae (a)	P	P2	0.008524090
+CW_2	CW_maxbin_CW.098	Nitrososphaeraceae (a)	P	P2	0.017154767
+CW_3	CW_maxbin_CW.218	Nitrososphaeraceae (b)	P	P2	0.007490366
+CW_4	CW_metabat_CW.108.fa	RKRQ02 (a)	P	P2	0.037605210
+CW_5	CW_metabat_CW.111.fa	UBA6522 (a)	P	P2	0.022233818
+CW_6	CW_metabat_CW.121.fa	Methyloligellaceae	P	P2	0.006521633
+CW_7	CW_metabat_CW.123.fa	E44-bin32 (b)	P	P2	0.009066713
+CW_8	CW_metabat_CW.131.fa	UBA6522 (b)	P	P2	0.026551166
+CW_9	CW_metabat_CW.20.fa	SG8-38	P	P2	0.019389540
+CW_10	CW_metabat_CW.37.fa	UBA6522 (c)	P	P2	0.013497500
+CW_11	CW_metabat_CW.57.fa	UBA6522 (d)	P	P2	0.012706491
+CW_12	CW_metabat_CW.86.fa	UBA4486	P	P2	0.002070757
+CW_13	CW_metabat_CW.95.fa	JACQBZ02	P	P2	0.000000000
+CW_14	CW_metabat_CW.96.fa	GWC2-71-9	P	P2	0.008119250
+L_1	L_25727.fna	Sporolactobacillaceae (a)	P	P2	0.000000000
+L_2	L_maxbin_L.002	Paenibacillaceae	P	P2	0.000000000
+L_3	L_maxbin_L.006	Domibacillaceae	P	P2	0.000000000
+L_4	L_maxbin_L.259	Sporolactobacillaceae (b)	P	P2	0.000000000
+L_5	L_metabat_L.102.fa	Jiangellales	P	P2	0.009626588
+L_6	L_metabat_L.108.fa	SM23-39	P	P2	0.000000000
+L_7	L_metabat_L.119.fa	Flavobacteriaceae	P	P2	0.007826669
+L_8	L_metabat_L.121.fa	Streptomycetaceae	P	P2	0.004214542
+L_9	L_metabat_L.18.fa	Rhodobacteraceae	P	P2	0.031708680
+L_10	L_metabat_L.41.fa	RKRQ01	P	P2	0.015933157
+L_11	L_metabat_L.45.fa	Cellulomonadaceae	P	P2	0.000000000
+L_12	L_metabat_L.59.fa	CECT-8803	P	P2	0.026753940
+L_13	L_metabat_L.70.fa	UBA8139	P	P2	0.014492702
+L_14	L_metabat_L.95.fa	Planctomycetaceae	P	P2	0.000000000
+LW_1	LW_10211.fna	GWA1-39-11	P	P2	0.000000000
+LW_2	LW_10984.fna	DSSB01	P	P2	0.000000000
+LW_3	LW_maxbin_LW.013	Latescibacterales	P	P2	0.000000000
+LW_4	LW_maxbin_LW.016	Bacillaceae_C	P	P2	0.000000000
+LW_5	LW_maxbin_LW.091	Cyclobacteriaceae	P	P2	0.004062107
+LW_6	LW_maxbin_LW.269	Lacipirellulaceae	P	P2	0.007171551
+LW_7	LW_maxbin_LW.310	SZUA-584	P	P2	0.000000000
+LW_8	LW_metabat_LW.102.fa	JAFGWO01	P	P2	0.005602767
+LW_9	LW_metabat_LW.105.fa	QNYZ01	P	P2	0.002881383
+LW_10	LW_metabat_LW.111.fa	UBA6522 (e)	P	P2	0.013750614
+LW_11	LW_metabat_LW.129.fa	UBA11606	P	P2	0.019167386
+LW_12	LW_metabat_LW.136.fa	Alkalibacteraceae	P	P2	0.000000000
+LW_13	LW_metabat_LW.149.fa	Balneolaceae (b)	P	P2	0.000000000
+LW_14	LW_metabat_LW.17.fa	Promineofilaceae (b)	P	P2	0.011300777
+LW_15	LW_metabat_LW.43.fa	Desulfobacterales	P	P2	0.003413370
+LW_16	LW_metabat_LW.90.fa	UMGS416	P	P2	0.000000000
+LW_17	LW_metabat_LW.95.fa	Anaerolineaceae	P	P2	0.002389808
+P_1	P_18661.fna	Halobacteriales (a)	P	P2	0.037662639
+P_2	P_25546.fna	Hyphomicrobiaceae	P	P2	0.023536491
+P_3	P_25897.fna	JAENVV01	P	P2	0.043372229
+P_4	P_maxbin_P.068	SG8-13 (a)	P	P2	0.014667117
+P_5	P_maxbin_P.091	HXMU1428-3	P	P2	0.010619426
+P_6	P_metabat_P.121.fa	RKSH01	P	P2	0.021250433
+P_7	P_metabat_P.131.fa	SG8-41	P	P2	0.029818009
+P_8	P_metabat_P.37.fa	RKRQ02 (b)	P	P2	0.010532692
+P_9	P_metabat_P.50.fa	Woeseiaceae (b)	P	P2	0.035256288
+P_10	P_metabat_P.57.fa	Halobacteriales (b)	P	P2	0.015174053
+P_11	P_metabat_P.77.fa	SG8-13 (b)	P	P2	0.019591606
+PW_1	PW_19550.fna	70-9 (a)	P	P2	0.007098288
+PW_2	PW_metabat_PW.84.fa	70-9 (b)	P	P2	0.013992383
+C_1	C_27077.fna	UBA5704 (a)	P	P3	0.029526966
+C_2	C_maxbin_C.028.fasta	HGW-15	P	P3	0.011139154
+C_3	C_metabat_C.121.fa	ZC4RG35 (a)	P	P3	0.033269463
+C_4	C_metabat_C.124.fa	Micropepsaceae	P	P3	0.012663069
+C_5	C_metabat_C.125.fa	SZUA-232	P	P3	0.044033997
+C_6	C_metabat_C.19.fa	Nitriliruptoraceae	P	P3	0.017069475
+C_7	C_metabat_C.25.fa	E44-bin32 (a)	P	P3	0.020773816
+C_8	C_metabat_C.37.fa	SZUA-229	P	P3	0.009504008
+C_9	C_metabat_C.46.fa	JABDQX01	P	P3	0.016036034
+C_10	C_metabat_C.60.fa	UBA5704 (b)	P	P3	0.026882660
+C_11	C_metabat_C.7.fa	Pseudonocardiaceae	P	P3	0.019461029
+C_12	C_metabat_C.74.fa	Balneolaceae (a)	P	P3	0.012024135
+C_13	C_metabat_C.81.fa	Promineofilaceae (a)	P	P3	0.018654671
+C_14	C_metabat_C.83.fa	UBA5704 (c)	P	P3	0.026474047
+C_15	C_metabat_C.95.fa	J153	P	P3	0.020843421
+C_16	C_metabat_C.98.fa	ZC4RG35 (b)	P	P3	0.039448144
+CW_1	CW_23909.fna	Woeseiaceae (a)	P	P3	0.009656631
+CW_2	CW_maxbin_CW.098	Nitrososphaeraceae (a)	P	P3	0.015038898
+CW_3	CW_maxbin_CW.218	Nitrososphaeraceae (b)	P	P3	0.006884677
+CW_4	CW_metabat_CW.108.fa	RKRQ02 (a)	P	P3	0.038920439
+CW_5	CW_metabat_CW.111.fa	UBA6522 (a)	P	P3	0.023157045
+CW_6	CW_metabat_CW.121.fa	Methyloligellaceae	P	P3	0.006579894
+CW_7	CW_metabat_CW.123.fa	E44-bin32 (b)	P	P3	0.009025096
+CW_8	CW_metabat_CW.131.fa	UBA6522 (b)	P	P3	0.027464477
+CW_9	CW_metabat_CW.20.fa	SG8-38	P	P3	0.020013246
+CW_10	CW_metabat_CW.37.fa	UBA6522 (c)	P	P3	0.013686567
+CW_11	CW_metabat_CW.57.fa	UBA6522 (d)	P	P3	0.013152619
+CW_12	CW_metabat_CW.86.fa	UBA4486	P	P3	0.002539320
+CW_13	CW_metabat_CW.95.fa	JACQBZ02	P	P3	0.002086308
+CW_14	CW_metabat_CW.96.fa	GWC2-71-9	P	P3	0.008701582
+L_1	L_25727.fna	Sporolactobacillaceae (a)	P	P3	0.000000000
+L_2	L_maxbin_L.002	Paenibacillaceae	P	P3	0.000000000
+L_3	L_maxbin_L.006	Domibacillaceae	P	P3	0.000000000
+L_4	L_maxbin_L.259	Sporolactobacillaceae (b)	P	P3	0.000000000
+L_5	L_metabat_L.102.fa	Jiangellales	P	P3	0.009349535
+L_6	L_metabat_L.108.fa	SM23-39	P	P3	0.000000000
+L_7	L_metabat_L.119.fa	Flavobacteriaceae	P	P3	0.007102974
+L_8	L_metabat_L.121.fa	Streptomycetaceae	P	P3	0.003965418
+L_9	L_metabat_L.18.fa	Rhodobacteraceae	P	P3	0.031767516
+L_10	L_metabat_L.41.fa	RKRQ01	P	P3	0.022199683
+L_11	L_metabat_L.45.fa	Cellulomonadaceae	P	P3	0.000000000
+L_12	L_metabat_L.59.fa	CECT-8803	P	P3	0.024076019
+L_13	L_metabat_L.70.fa	UBA8139	P	P3	0.013050870
+L_14	L_metabat_L.95.fa	Planctomycetaceae	P	P3	0.000000000
+LW_1	LW_10211.fna	GWA1-39-11	P	P3	0.000000000
+LW_2	LW_10984.fna	DSSB01	P	P3	0.000000000
+LW_3	LW_maxbin_LW.013	Latescibacterales	P	P3	0.000000000
+LW_4	LW_maxbin_LW.016	Bacillaceae_C	P	P3	0.000000000
+LW_5	LW_maxbin_LW.091	Cyclobacteriaceae	P	P3	0.003414820
+LW_6	LW_maxbin_LW.269	Lacipirellulaceae	P	P3	0.006761191
+LW_7	LW_maxbin_LW.310	SZUA-584	P	P3	0.000000000
+LW_8	LW_metabat_LW.102.fa	JAFGWO01	P	P3	0.006084101
+LW_9	LW_metabat_LW.105.fa	QNYZ01	P	P3	0.003708966
+LW_10	LW_metabat_LW.111.fa	UBA6522 (e)	P	P3	0.012442691
+LW_11	LW_metabat_LW.129.fa	UBA11606	P	P3	0.020312017
+LW_12	LW_metabat_LW.136.fa	Alkalibacteraceae	P	P3	0.000000000
+LW_13	LW_metabat_LW.149.fa	Balneolaceae (b)	P	P3	0.000000000
+LW_14	LW_metabat_LW.17.fa	Promineofilaceae (b)	P	P3	0.011808613
+LW_15	LW_metabat_LW.43.fa	Desulfobacterales	P	P3	0.003610455
+LW_16	LW_metabat_LW.90.fa	UMGS416	P	P3	0.000000000
+LW_17	LW_metabat_LW.95.fa	Anaerolineaceae	P	P3	0.002274311
+P_1	P_18661.fna	Halobacteriales (a)	P	P3	0.030973877
+P_2	P_25546.fna	Hyphomicrobiaceae	P	P3	0.021397951
+P_3	P_25897.fna	JAENVV01	P	P3	0.044249288
+P_4	P_maxbin_P.068	SG8-13 (a)	P	P3	0.014633985
+P_5	P_maxbin_P.091	HXMU1428-3	P	P3	0.010938894
+P_6	P_metabat_P.121.fa	RKSH01	P	P3	0.017155037
+P_7	P_metabat_P.131.fa	SG8-41	P	P3	0.027060489
+P_8	P_metabat_P.37.fa	RKRQ02 (b)	P	P3	0.011760514
+P_9	P_metabat_P.50.fa	Woeseiaceae (b)	P	P3	0.031378327
+P_10	P_metabat_P.57.fa	Halobacteriales (b)	P	P3	0.013300385
+P_11	P_metabat_P.77.fa	SG8-13 (b)	P	P3	0.021723315
+PW_1	PW_19550.fna	70-9 (a)	P	P3	0.006439296
+PW_2	PW_metabat_PW.84.fa	70-9 (b)	P	P3	0.012348574
+C_1	C_27077.fna	UBA5704 (a)	PW	PW1	0.0143236920
+C_2	C_maxbin_C.028.fasta	HGW-15	PW	PW1	0.0120072257
+C_3	C_metabat_C.121.fa	ZC4RG35 (a)	PW	PW1	0.0173033149
+C_4	C_metabat_C.124.fa	Micropepsaceae	PW	PW1	0.0125014081
+C_5	C_metabat_C.125.fa	SZUA-232	PW	PW1	0.0333319476
+C_6	C_metabat_C.19.fa	Nitriliruptoraceae	PW	PW1	0.0038864064
+C_7	C_metabat_C.25.fa	E44-bin32 (a)	PW	PW1	0.0220178290
+C_8	C_metabat_C.37.fa	SZUA-229	PW	PW1	0.0074686146
+C_9	C_metabat_C.46.fa	JABDQX01	PW	PW1	0.0187340078
+C_10	C_metabat_C.60.fa	UBA5704 (b)	PW	PW1	0.0235488782
+C_11	C_metabat_C.7.fa	Pseudonocardiaceae	PW	PW1	0.0031222229
+C_12	C_metabat_C.74.fa	Balneolaceae (a)	PW	PW1	0.0019718126
+C_13	C_metabat_C.81.fa	Promineofilaceae (a)	PW	PW1	0.0202167787
+C_14	C_metabat_C.83.fa	UBA5704 (c)	PW	PW1	0.0301480357
+C_15	C_metabat_C.95.fa	J153	PW	PW1	0.0116822409
+C_16	C_metabat_C.98.fa	ZC4RG35 (b)	PW	PW1	0.0349130632
+CW_1	CW_23909.fna	Woeseiaceae (a)	PW	PW1	0.0174255754
+CW_2	CW_maxbin_CW.098	Nitrososphaeraceae (a)	PW	PW1	0.0206874925
+CW_3	CW_maxbin_CW.218	Nitrososphaeraceae (b)	PW	PW1	0.0124792805
+CW_4	CW_metabat_CW.108.fa	RKRQ02 (a)	PW	PW1	0.0200580860
+CW_5	CW_metabat_CW.111.fa	UBA6522 (a)	PW	PW1	0.0340103030
+CW_6	CW_metabat_CW.121.fa	Methyloligellaceae	PW	PW1	0.0127173196
+CW_7	CW_metabat_CW.123.fa	E44-bin32 (b)	PW	PW1	0.0090251441
+CW_8	CW_metabat_CW.131.fa	UBA6522 (b)	PW	PW1	0.0287848431
+CW_9	CW_metabat_CW.20.fa	SG8-38	PW	PW1	0.0213772470
+CW_10	CW_metabat_CW.37.fa	UBA6522 (c)	PW	PW1	0.0219252955
+CW_11	CW_metabat_CW.57.fa	UBA6522 (d)	PW	PW1	0.0175145327
+CW_12	CW_metabat_CW.86.fa	UBA4486	PW	PW1	0.0051096812
+CW_13	CW_metabat_CW.95.fa	JACQBZ02	PW	PW1	0.0048421388
+CW_14	CW_metabat_CW.96.fa	GWC2-71-9	PW	PW1	0.0111388861
+L_1	L_25727.fna	Sporolactobacillaceae (a)	PW	PW1	0.0000000000
+L_2	L_maxbin_L.002	Paenibacillaceae	PW	PW1	0.0000000000
+L_3	L_maxbin_L.006	Domibacillaceae	PW	PW1	0.0000000000
+L_4	L_maxbin_L.259	Sporolactobacillaceae (b)	PW	PW1	0.0000000000
+L_5	L_metabat_L.102.fa	Jiangellales	PW	PW1	0.0101927647
+L_6	L_metabat_L.108.fa	SM23-39	PW	PW1	0.0000000000
+L_7	L_metabat_L.119.fa	Flavobacteriaceae	PW	PW1	0.0022757873
+L_8	L_metabat_L.121.fa	Streptomycetaceae	PW	PW1	0.0000000000
+L_9	L_metabat_L.18.fa	Rhodobacteraceae	PW	PW1	0.0078888150
+L_10	L_metabat_L.41.fa	RKRQ01	PW	PW1	0.0103610683
+L_11	L_metabat_L.45.fa	Cellulomonadaceae	PW	PW1	0.0000000000
+L_12	L_metabat_L.59.fa	CECT-8803	PW	PW1	0.0122517465
+L_13	L_metabat_L.70.fa	UBA8139	PW	PW1	0.0111750948
+L_14	L_metabat_L.95.fa	Planctomycetaceae	PW	PW1	0.0000000000
+LW_1	LW_10211.fna	GWA1-39-11	PW	PW1	0.0000000000
+LW_2	LW_10984.fna	DSSB01	PW	PW1	0.0000000000
+LW_3	LW_maxbin_LW.013	Latescibacterales	PW	PW1	0.0000000000
+LW_4	LW_maxbin_LW.016	Bacillaceae_C	PW	PW1	0.0000000000
+LW_5	LW_maxbin_LW.091	Cyclobacteriaceae	PW	PW1	0.0042362009
+LW_6	LW_maxbin_LW.269	Lacipirellulaceae	PW	PW1	0.0058186576
+LW_7	LW_maxbin_LW.310	SZUA-584	PW	PW1	0.0000000000
+LW_8	LW_metabat_LW.102.fa	JAFGWO01	PW	PW1	0.0095631347
+LW_9	LW_metabat_LW.105.fa	QNYZ01	PW	PW1	0.0052846902
+LW_10	LW_metabat_LW.111.fa	UBA6522 (e)	PW	PW1	0.0130002843
+LW_11	LW_metabat_LW.129.fa	UBA11606	PW	PW1	0.0177510071
+LW_12	LW_metabat_LW.136.fa	Alkalibacteraceae	PW	PW1	0.0000000000
+LW_13	LW_metabat_LW.149.fa	Balneolaceae (b)	PW	PW1	0.0000000000
+LW_14	LW_metabat_LW.17.fa	Promineofilaceae (b)	PW	PW1	0.0098342533
+LW_15	LW_metabat_LW.43.fa	Desulfobacterales	PW	PW1	0.0037143031
+LW_16	LW_metabat_LW.90.fa	UMGS416	PW	PW1	0.0000000000
+LW_17	LW_metabat_LW.95.fa	Anaerolineaceae	PW	PW1	0.0015044514
+P_1	P_18661.fna	Halobacteriales (a)	PW	PW1	0.0008737039
+P_2	P_25546.fna	Hyphomicrobiaceae	PW	PW1	0.0203763654
+P_3	P_25897.fna	JAENVV01	PW	PW1	0.0234080664
+P_4	P_maxbin_P.068	SG8-13 (a)	PW	PW1	0.0104397442
+P_5	P_maxbin_P.091	HXMU1428-3	PW	PW1	0.0070003594
+P_6	P_metabat_P.121.fa	RKSH01	PW	PW1	0.0076825145
+P_7	P_metabat_P.131.fa	SG8-41	PW	PW1	0.0162528140
+P_8	P_metabat_P.37.fa	RKRQ02 (b)	PW	PW1	0.0084773190
+P_9	P_metabat_P.50.fa	Woeseiaceae (b)	PW	PW1	0.0262064221
+P_10	P_metabat_P.57.fa	Halobacteriales (b)	PW	PW1	0.0015102627
+P_11	P_metabat_P.77.fa	SG8-13 (b)	PW	PW1	0.0240153454
+PW_1	PW_19550.fna	70-9 (a)	PW	PW1	0.1477681549
+PW_2	PW_metabat_PW.84.fa	70-9 (b)	PW	PW1	0.0768633651
+C_1	C_27077.fna	UBA5704 (a)	PW	PW2	0.020997364
+C_2	C_maxbin_C.028.fasta	HGW-15	PW	PW2	0.013519760
+C_3	C_metabat_C.121.fa	ZC4RG35 (a)	PW	PW2	0.019106975
+C_4	C_metabat_C.124.fa	Micropepsaceae	PW	PW2	0.015969147
+C_5	C_metabat_C.125.fa	SZUA-232	PW	PW2	0.036235088
+C_6	C_metabat_C.19.fa	Nitriliruptoraceae	PW	PW2	0.005699568
+C_7	C_metabat_C.25.fa	E44-bin32 (a)	PW	PW2	0.025869495
+C_8	C_metabat_C.37.fa	SZUA-229	PW	PW2	0.008543571
+C_9	C_metabat_C.46.fa	JABDQX01	PW	PW2	0.019634304
+C_10	C_metabat_C.60.fa	UBA5704 (b)	PW	PW2	0.026361131
+C_11	C_metabat_C.7.fa	Pseudonocardiaceae	PW	PW2	0.002356137
+C_12	C_metabat_C.74.fa	Balneolaceae (a)	PW	PW2	0.002957110
+C_13	C_metabat_C.81.fa	Promineofilaceae (a)	PW	PW2	0.024016557
+C_14	C_metabat_C.83.fa	UBA5704 (c)	PW	PW2	0.035162083
+C_15	C_metabat_C.95.fa	J153	PW	PW2	0.012993940
+C_16	C_metabat_C.98.fa	ZC4RG35 (b)	PW	PW2	0.039217584
+CW_1	CW_23909.fna	Woeseiaceae (a)	PW	PW2	0.022058807
+CW_2	CW_maxbin_CW.098	Nitrososphaeraceae (a)	PW	PW2	0.024382520
+CW_3	CW_maxbin_CW.218	Nitrososphaeraceae (b)	PW	PW2	0.013744465
+CW_4	CW_metabat_CW.108.fa	RKRQ02 (a)	PW	PW2	0.022909620
+CW_5	CW_metabat_CW.111.fa	UBA6522 (a)	PW	PW2	0.039234173
+CW_6	CW_metabat_CW.121.fa	Methyloligellaceae	PW	PW2	0.013020331
+CW_7	CW_metabat_CW.123.fa	E44-bin32 (b)	PW	PW2	0.010047638
+CW_8	CW_metabat_CW.131.fa	UBA6522 (b)	PW	PW2	0.036266255
+CW_9	CW_metabat_CW.20.fa	SG8-38	PW	PW2	0.026083894
+CW_10	CW_metabat_CW.37.fa	UBA6522 (c)	PW	PW2	0.024856562
+CW_11	CW_metabat_CW.57.fa	UBA6522 (d)	PW	PW2	0.022487607
+CW_12	CW_metabat_CW.86.fa	UBA4486	PW	PW2	0.007281301
+CW_13	CW_metabat_CW.95.fa	JACQBZ02	PW	PW2	0.004716546
+CW_14	CW_metabat_CW.96.fa	GWC2-71-9	PW	PW2	0.012864998
+L_1	L_25727.fna	Sporolactobacillaceae (a)	PW	PW2	0.000000000
+L_2	L_maxbin_L.002	Paenibacillaceae	PW	PW2	0.000000000
+L_3	L_maxbin_L.006	Domibacillaceae	PW	PW2	0.000000000
+L_4	L_maxbin_L.259	Sporolactobacillaceae (b)	PW	PW2	0.000000000
+L_5	L_metabat_L.102.fa	Jiangellales	PW	PW2	0.012449269
+L_6	L_metabat_L.108.fa	SM23-39	PW	PW2	0.000000000
+L_7	L_metabat_L.119.fa	Flavobacteriaceae	PW	PW2	0.002476532
+L_8	L_metabat_L.121.fa	Streptomycetaceae	PW	PW2	0.000000000
+L_9	L_metabat_L.18.fa	Rhodobacteraceae	PW	PW2	0.010027027
+L_10	L_metabat_L.41.fa	RKRQ01	PW	PW2	0.010799671
+L_11	L_metabat_L.45.fa	Cellulomonadaceae	PW	PW2	0.000000000
+L_12	L_metabat_L.59.fa	CECT-8803	PW	PW2	0.015374457
+L_13	L_metabat_L.70.fa	UBA8139	PW	PW2	0.012408047
+L_14	L_metabat_L.95.fa	Planctomycetaceae	PW	PW2	0.000000000
+LW_1	LW_10211.fna	GWA1-39-11	PW	PW2	0.000000000
+LW_2	LW_10984.fna	DSSB01	PW	PW2	0.000000000
+LW_3	LW_maxbin_LW.013	Latescibacterales	PW	PW2	0.000000000
+LW_4	LW_maxbin_LW.016	Bacillaceae_C	PW	PW2	0.000000000
+LW_5	LW_maxbin_LW.091	Cyclobacteriaceae	PW	PW2	0.004238231
+LW_6	LW_maxbin_LW.269	Lacipirellulaceae	PW	PW2	0.006182910
+LW_7	LW_maxbin_LW.310	SZUA-584	PW	PW2	0.000000000
+LW_8	LW_metabat_LW.102.fa	JAFGWO01	PW	PW2	0.011137986
+LW_9	LW_metabat_LW.105.fa	QNYZ01	PW	PW2	0.006218853
+LW_10	LW_metabat_LW.111.fa	UBA6522 (e)	PW	PW2	0.016015143
+LW_11	LW_metabat_LW.129.fa	UBA11606	PW	PW2	0.021277617
+LW_12	LW_metabat_LW.136.fa	Alkalibacteraceae	PW	PW2	0.000000000
+LW_13	LW_metabat_LW.149.fa	Balneolaceae (b)	PW	PW2	0.000000000
+LW_14	LW_metabat_LW.17.fa	Promineofilaceae (b)	PW	PW2	0.012105173
+LW_15	LW_metabat_LW.43.fa	Desulfobacterales	PW	PW2	0.004516222
+LW_16	LW_metabat_LW.90.fa	UMGS416	PW	PW2	0.000000000
+LW_17	LW_metabat_LW.95.fa	Anaerolineaceae	PW	PW2	0.002700986
+P_1	P_18661.fna	Halobacteriales (a)	PW	PW2	0.000000000
+P_2	P_25546.fna	Hyphomicrobiaceae	PW	PW2	0.022993822
+P_3	P_25897.fna	JAENVV01	PW	PW2	0.027612593
+P_4	P_maxbin_P.068	SG8-13 (a)	PW	PW2	0.012337670
+P_5	P_maxbin_P.091	HXMU1428-3	PW	PW2	0.007794554
+P_6	P_metabat_P.121.fa	RKSH01	PW	PW2	0.009509502
+P_7	P_metabat_P.131.fa	SG8-41	PW	PW2	0.019179615
+P_8	P_metabat_P.37.fa	RKRQ02 (b)	PW	PW2	0.009323504
+P_9	P_metabat_P.50.fa	Woeseiaceae (b)	PW	PW2	0.033610260
+P_10	P_metabat_P.57.fa	Halobacteriales (b)	PW	PW2	0.001848665
+P_11	P_metabat_P.77.fa	SG8-13 (b)	PW	PW2	0.028316116
+PW_1	PW_19550.fna	70-9 (a)	PW	PW2	0.062338587
+PW_2	PW_metabat_PW.84.fa	70-9 (b)	PW	PW2	0.028612456
+C_1	C_27077.fna	UBA5704 (a)	PW	PW3	0.024363330
+C_2	C_maxbin_C.028.fasta	HGW-15	PW	PW3	0.017898017
+C_3	C_metabat_C.121.fa	ZC4RG35 (a)	PW	PW3	0.027129432
+C_4	C_metabat_C.124.fa	Micropepsaceae	PW	PW3	0.016272852
+C_5	C_metabat_C.125.fa	SZUA-232	PW	PW3	0.053355445
+C_6	C_metabat_C.19.fa	Nitriliruptoraceae	PW	PW3	0.004448761
+C_7	C_metabat_C.25.fa	E44-bin32 (a)	PW	PW3	0.029268042
+C_8	C_metabat_C.37.fa	SZUA-229	PW	PW3	0.014353853
+C_9	C_metabat_C.46.fa	JABDQX01	PW	PW3	0.033795269
+C_10	C_metabat_C.60.fa	UBA5704 (b)	PW	PW3	0.025658372
+C_11	C_metabat_C.7.fa	Pseudonocardiaceae	PW	PW3	0.010029270
+C_12	C_metabat_C.74.fa	Balneolaceae (a)	PW	PW3	0.001753585
+C_13	C_metabat_C.81.fa	Promineofilaceae (a)	PW	PW3	0.021284071
+C_14	C_metabat_C.83.fa	UBA5704 (c)	PW	PW3	0.033823310
+C_15	C_metabat_C.95.fa	J153	PW	PW3	0.015243134
+C_16	C_metabat_C.98.fa	ZC4RG35 (b)	PW	PW3	0.036953937
+CW_1	CW_23909.fna	Woeseiaceae (a)	PW	PW3	0.028968788
+CW_2	CW_maxbin_CW.098	Nitrososphaeraceae (a)	PW	PW3	0.018820758
+CW_3	CW_maxbin_CW.218	Nitrososphaeraceae (b)	PW	PW3	0.011265404
+CW_4	CW_metabat_CW.108.fa	RKRQ02 (a)	PW	PW3	0.015639469
+CW_5	CW_metabat_CW.111.fa	UBA6522 (a)	PW	PW3	0.048207088
+CW_6	CW_metabat_CW.121.fa	Methyloligellaceae	PW	PW3	0.012875017
+CW_7	CW_metabat_CW.123.fa	E44-bin32 (b)	PW	PW3	0.011243490
+CW_8	CW_metabat_CW.131.fa	UBA6522 (b)	PW	PW3	0.035233576
+CW_9	CW_metabat_CW.20.fa	SG8-38	PW	PW3	0.029384916
+CW_10	CW_metabat_CW.37.fa	UBA6522 (c)	PW	PW3	0.032889965
+CW_11	CW_metabat_CW.57.fa	UBA6522 (d)	PW	PW3	0.026707412
+CW_12	CW_metabat_CW.86.fa	UBA4486	PW	PW3	0.009218220
+CW_13	CW_metabat_CW.95.fa	JACQBZ02	PW	PW3	0.006635441
+CW_14	CW_metabat_CW.96.fa	GWC2-71-9	PW	PW3	0.016085524
+L_1	L_25727.fna	Sporolactobacillaceae (a)	PW	PW3	0.000000000
+L_2	L_maxbin_L.002	Paenibacillaceae	PW	PW3	0.000000000
+L_3	L_maxbin_L.006	Domibacillaceae	PW	PW3	0.000000000
+L_4	L_maxbin_L.259	Sporolactobacillaceae (b)	PW	PW3	0.000000000
+L_5	L_metabat_L.102.fa	Jiangellales	PW	PW3	0.014295180
+L_6	L_metabat_L.108.fa	SM23-39	PW	PW3	0.000000000
+L_7	L_metabat_L.119.fa	Flavobacteriaceae	PW	PW3	0.002778591
+L_8	L_metabat_L.121.fa	Streptomycetaceae	PW	PW3	0.000000000
+L_9	L_metabat_L.18.fa	Rhodobacteraceae	PW	PW3	0.009448198
+L_10	L_metabat_L.41.fa	RKRQ01	PW	PW3	0.010747717
+L_11	L_metabat_L.45.fa	Cellulomonadaceae	PW	PW3	0.000000000
+L_12	L_metabat_L.59.fa	CECT-8803	PW	PW3	0.013121489
+L_13	L_metabat_L.70.fa	UBA8139	PW	PW3	0.012290410
+L_14	L_metabat_L.95.fa	Planctomycetaceae	PW	PW3	0.000000000
+LW_1	LW_10211.fna	GWA1-39-11	PW	PW3	0.000000000
+LW_2	LW_10984.fna	DSSB01	PW	PW3	0.000000000
+LW_3	LW_maxbin_LW.013	Latescibacterales	PW	PW3	0.000000000
+LW_4	LW_maxbin_LW.016	Bacillaceae_C	PW	PW3	0.000000000
+LW_5	LW_maxbin_LW.091	Cyclobacteriaceae	PW	PW3	0.003806424
+LW_6	LW_maxbin_LW.269	Lacipirellulaceae	PW	PW3	0.004845568
+LW_7	LW_maxbin_LW.310	SZUA-584	PW	PW3	0.000000000
+LW_8	LW_metabat_LW.102.fa	JAFGWO01	PW	PW3	0.012133007
+LW_9	LW_metabat_LW.105.fa	QNYZ01	PW	PW3	0.007156426
+LW_10	LW_metabat_LW.111.fa	UBA6522 (e)	PW	PW3	0.014817815
+LW_11	LW_metabat_LW.129.fa	UBA11606	PW	PW3	0.025067167
+LW_12	LW_metabat_LW.136.fa	Alkalibacteraceae	PW	PW3	0.000000000
+LW_13	LW_metabat_LW.149.fa	Balneolaceae (b)	PW	PW3	0.000000000
+LW_14	LW_metabat_LW.17.fa	Promineofilaceae (b)	PW	PW3	0.012186260
+LW_15	LW_metabat_LW.43.fa	Desulfobacterales	PW	PW3	0.004646222
+LW_16	LW_metabat_LW.90.fa	UMGS416	PW	PW3	0.000000000
+LW_17	LW_metabat_LW.95.fa	Anaerolineaceae	PW	PW3	0.002589377
+P_1	P_18661.fna	Halobacteriales (a)	PW	PW3	0.000000000
+P_2	P_25546.fna	Hyphomicrobiaceae	PW	PW3	0.020385836
+P_3	P_25897.fna	JAENVV01	PW	PW3	0.028358497
+P_4	P_maxbin_P.068	SG8-13 (a)	PW	PW3	0.014748539
+P_5	P_maxbin_P.091	HXMU1428-3	PW	PW3	0.008825890
+P_6	P_metabat_P.121.fa	RKSH01	PW	PW3	0.007470997
+P_7	P_metabat_P.131.fa	SG8-41	PW	PW3	0.014880022
+P_8	P_metabat_P.37.fa	RKRQ02 (b)	PW	PW3	0.009369968
+P_9	P_metabat_P.50.fa	Woeseiaceae (b)	PW	PW3	0.023064518
+P_10	P_metabat_P.57.fa	Halobacteriales (b)	PW	PW3	0.001496744
+P_11	P_metabat_P.77.fa	SG8-13 (b)	PW	PW3	0.032285094
+PW_1	PW_19550.fna	70-9 (a)	PW	PW3	0.007548520
+PW_2	PW_metabat_PW.84.fa	70-9 (b)	PW	PW3	0.012829775
